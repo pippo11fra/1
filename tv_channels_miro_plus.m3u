@@ -1,0 +1,999 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ ALBANIA  /  SHQIP ] =-=-=-" tvg-logo="" group-title="Albania",-=-=-= [ ALBANIA  /  SHQIP ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/931.ts
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="AL: 24 Kitchen" tvg-logo="" group-title="Albania",AL: 24 Kitchen
+http://alblive.org:80/live/miro/mirodrug/2217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ABC News" tvg-logo="" group-title="Albania",ALB: ABC News
+http://alblive.org:80/live/miro/mirodrug/2446.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ALB Humor 1" tvg-logo="" group-title="Albania",ALB: ALB Humor 1
+http://alblive.org:80/live/miro/mirodrug/2441.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ALB Humor 2" tvg-logo="" group-title="Albania",ALB: ALB Humor 2
+http://alblive.org:80/live/miro/mirodrug/2440.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ALB Shqip" tvg-logo="" group-title="Albania",ALB: ALB Shqip
+http://alblive.org:80/live/miro/mirodrug/2436.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: AlsatM-T" tvg-logo="" group-title="Albania",ALB: AlsatM-T
+http://alblive.org:80/live/miro/mirodrug/2500.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Apollon" tvg-logo="" group-title="Albania",ALB: Apollon
+http://alblive.org:80/live/miro/mirodrug/2477.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Art TV" tvg-logo="" group-title="Albania",ALB: Art TV
+http://alblive.org:80/live/miro/mirodrug/2496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Bang Bang" tvg-logo="" group-title="Albania",ALB: Bang Bang
+http://alblive.org:80/live/miro/mirodrug/2419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: BBF Music" tvg-logo="" group-title="Albania",ALB: BBF Music
+http://alblive.org:80/live/miro/mirodrug/2456.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Cufo" tvg-logo="" group-title="Albania",ALB: Cufo
+http://alblive.org:80/live/miro/mirodrug/2418.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Dukagjini TV" tvg-logo="" group-title="Albania",ALB: Dukagjini TV
+http://alblive.org:80/live/miro/mirodrug/2483.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ERA" tvg-logo="" group-title="Albania",ALB: ERA
+http://alblive.org:80/live/miro/mirodrug/2497.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: EXP Histori" tvg-logo="" group-title="Albania",ALB: EXP Histori
+http://alblive.org:80/live/miro/mirodrug/2422.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: EXP Natyre" tvg-logo="" group-title="Albania",ALB: EXP Natyre
+http://alblive.org:80/live/miro/mirodrug/2421.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: EXP Shkence" tvg-logo="" group-title="Albania",ALB: EXP Shkence
+http://alblive.org:80/live/miro/mirodrug/2423.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Family HD" tvg-logo="" group-title="Albania",ALB: Family HD
+http://alblive.org:80/live/miro/mirodrug/2420.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Aksion" tvg-logo="" group-title="Albania",ALB: Film Aksion
+http://alblive.org:80/live/miro/mirodrug/2408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Autor" tvg-logo="" group-title="Albania",ALB: Film Autor
+http://alblive.org:80/live/miro/mirodrug/2412.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Drame" tvg-logo="" group-title="Albania",ALB: Film Drame
+http://alblive.org:80/live/miro/mirodrug/2409.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Dy HD" tvg-logo="" group-title="Albania",ALB: Film Dy HD
+http://alblive.org:80/live/miro/mirodrug/2405.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Hits" tvg-logo="" group-title="Albania",ALB: Film Hits
+http://alblive.org:80/live/miro/mirodrug/2410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Komedi" tvg-logo="" group-title="Albania",ALB: Film Komedi
+http://alblive.org:80/live/miro/mirodrug/2407.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Nje HD" tvg-logo="" group-title="Albania",ALB: Film Nje HD
+http://alblive.org:80/live/miro/mirodrug/2406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Thriller" tvg-logo="" group-title="Albania",ALB: Film Thriller
+http://alblive.org:80/live/miro/mirodrug/2411.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Folklorit" tvg-logo="" group-title="Albania",ALB: Folklorit
+http://alblive.org:80/live/miro/mirodrug/2450.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: IN" tvg-logo="" group-title="Albania",ALB: IN
+http://alblive.org:80/live/miro/mirodrug/2512.ts
+#EXTINF:-1 tvg-id="My Music" tvg-name="AL: My Music" tvg-logo="http://alblive.org/logo/albania/digit_alb_my_music_tv.png" group-title="Albania",AL: My Music
+http://alblive.org:80/live/miro/mirodrug/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Junior TV" tvg-logo="" group-title="Albania",ALB: Junior TV
+http://alblive.org:80/live/miro/mirodrug/2416.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Klan HD" tvg-logo="" group-title="Albania",ALB: Klan HD
+http://alblive.org:80/live/miro/mirodrug/2516.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Klan Kosova" tvg-logo="" group-title="Albania",ALB: Klan Kosova
+http://alblive.org:80/live/miro/mirodrug/2486.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Klan Plus" tvg-logo="" group-title="Albania",ALB: Klan Plus
+http://alblive.org:80/live/miro/mirodrug/2514.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Klan SD" tvg-logo="" group-title="Albania",ALB: Klan SD
+http://alblive.org:80/live/miro/mirodrug/2515.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: KTV" tvg-logo="" group-title="Albania",ALB: KTV
+http://alblive.org:80/live/miro/mirodrug/2487.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: National Geographic" tvg-logo="" group-title="Albania",ALB: National Geographic
+http://alblive.org:80/live/miro/mirodrug/2425.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="AL: Discovery Channel HD" tvg-logo="http://alblive.org/logo/albania/discovery_hd_showcase_us.png" group-title="Albania",AL: Discovery Channel HD
+http://alblive.org:80/live/miro/mirodrug/583.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: News 24 HD" tvg-logo="" group-title="Albania",ALB: News 24 HD
+http://alblive.org:80/live/miro/mirodrug/2445.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Ora News HD" tvg-logo="" group-title="Albania",ALB: Ora News HD
+http://alblive.org:80/live/miro/mirodrug/2444.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Report TV" tvg-logo="" group-title="Albania",ALB: Report TV
+http://alblive.org:80/live/miro/mirodrug/2443.ts
+#EXTINF:-1 tvg-id="RTK 1" tvg-name="AL: RTK 1" tvg-logo="http://alblive.org/logo/turkey/rtk_1.png" group-title="Albania",AL: RTK 1
+http://alblive.org:80/live/miro/mirodrug/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="" group-title="Albania",AL: RTK 2
+http://alblive.org:80/live/miro/mirodrug/1696.ts
+#EXTINF:-1 tvg-id="Folk Plus" tvg-name="AL: Folk+" tvg-logo="http://alblive.org/logo/turkey/folk_plus.png" group-title="Albania",AL: Folk+
+http://alblive.org:80/live/miro/mirodrug/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tirana TV" tvg-logo="http://alblive.org/logo/albania/tirana_tv.png" group-title="Albania",AL: Tirana TV
+http://alblive.org:80/live/miro/mirodrug/71.ts
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="AL: Elrodi" tvg-logo="" group-title="Albania",AL: Elrodi
+http://alblive.org:80/live/miro/mirodrug/1805.ts
+#EXTINF:-1 tvg-id="STV Folk" tvg-name="AL: STV Folk" tvg-logo="http://alblive.org/logo/turkey/stvfolk-1728x800_c.png" group-title="Albania",AL: STV Folk
+http://alblive.org:80/live/miro/mirodrug/62.ts
+#EXTINF:-1 tvg-id="NEWS 7" tvg-name="AL: Kanali 7" tvg-logo="http://alblive.org/logo/turkey/dtv-channel-kanali7.png" group-title="Albania",AL: Kanali 7
+http://alblive.org:80/live/miro/mirodrug/522.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Rrokumi" tvg-logo="" group-title="Albania",ALB: Rrokumi
+http://alblive.org:80/live/miro/mirodrug/2482.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTSH Sport HD" tvg-logo="" group-title="Albania",ALB: RTSH Sport HD
+http://alblive.org:80/live/miro/mirodrug/2367.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV21 HD" tvg-logo="" group-title="Albania",ALB: RTV21 HD
+http://alblive.org:80/live/miro/mirodrug/2491.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV21 PLUS" tvg-logo="" group-title="Albania",ALB: RTV21 PLUS
+http://alblive.org:80/live/miro/mirodrug/2489.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV21 POPULLORE" tvg-logo="" group-title="Albania",ALB: RTV21 POPULLORE
+http://alblive.org:80/live/miro/mirodrug/2449.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV21M" tvg-logo="" group-title="Albania",ALB: RTV21M
+http://alblive.org:80/live/miro/mirodrug/2498.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="AL: FOX" tvg-logo="http://alblive.org/logo/turkey/FOX_Network.png" group-title="Albania",AL: FOX
+http://alblive.org:80/live/miro/mirodrug/586.ts
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="AL: FOX Life" tvg-logo="http://alblive.org/logo/turkey/fox_life_global.png" group-title="Albania",AL: FOX Life
+http://alblive.org:80/live/miro/mirodrug/585.ts
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="AL: Jolly HD" tvg-logo="http://alblive.org/logo/albania/tring_jolly_hd.png" group-title="Albania",AL: Jolly HD
+http://alblive.org:80/live/miro/mirodrug/104.ts
+#EXTINF:-1 tvg-id="Click TV" tvg-name="AL: Click TV" tvg-logo="http://alblive.org/logo/albania/tring_click.png" group-title="Albania",AL: Click TV
+http://alblive.org:80/live/miro/mirodrug/893.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Club TV" tvg-logo="http://alblive.org/logo/albania/club_tv_al.png" group-title="Albania",AL: Club TV
+http://alblive.org:80/live/miro/mirodrug/72.ts
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: 3 Plus" tvg-logo="http://alblive.org/logo/albania/tring_3plus.png" group-title="Albania",AL: 3 Plus
+http://alblive.org:80/live/miro/mirodrug/531.ts
+#EXTINF:-1 tvg-id="RTSH2 HD" tvg-name="AL: RTSH 2" tvg-logo="" group-title="Albania",AL: RTSH 2
+http://alblive.org:80/live/miro/mirodrug/1647.ts
+#EXTINF:-1 tvg-id="Living HD" tvg-name="AL: Living HD" tvg-logo="http://alblive.org/logo/albania/tring_living.png" group-title="Albania",AL: Living HD
+http://alblive.org:80/live/miro/mirodrug/181.ts
+#EXTINF:-1 tvg-id="Muse" tvg-name="AL: Muse" tvg-logo="http://alblive.org/logo/albania/muse_al.png" group-title="Albania",AL: Muse
+http://alblive.org:80/live/miro/mirodrug/869.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Topestrada TV" tvg-logo="http://alblive.org/logo/turkey/mtvlive.png" group-title="Albania",AL: Topestrada TV
+http://alblive.org:80/live/miro/mirodrug/843.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Comedy" tvg-logo="" group-title="Albania",AL: Sky Comedy
+http://alblive.org:80/live/miro/mirodrug/2221.ts
+#EXTINF:-1 tvg-id="Tring International" tvg-name="AL: Tring International" tvg-logo="http://alblive.org/logo/albania/tip_tv_al.png" group-title="Albania",AL: Tring International
+http://alblive.org:80/live/miro/mirodrug/920.ts
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="AL: Travel Channel" tvg-logo="http://alblive.org/logo/turkey/Travel_Channel.png" group-title="Albania",AL: Travel Channel
+http://alblive.org:80/live/miro/mirodrug/801.ts
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="AL: Tring Comedy" tvg-logo="http://alblive.org/logo/albania/tring_comedy.png" group-title="Albania",AL: Tring Comedy
+http://alblive.org:80/live/miro/mirodrug/168.ts
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="AL: Tring Fantasy" tvg-logo="http://alblive.org/logo/albania/tring_fantasy.png" group-title="Albania",AL: Tring Fantasy
+http://alblive.org:80/live/miro/mirodrug/64.ts
+#EXTINF:-1 tvg-id="Tring History" tvg-name="AL: Tring History" tvg-logo="http://alblive.org/logo/albania/tring_history.png" group-title="Albania",AL: Tring History
+http://alblive.org:80/live/miro/mirodrug/65.ts
+#EXTINF:-1 tvg-id="Tring Kids" tvg-name="AL: Tring Kids" tvg-logo="http://alblive.org/logo/albania/sofia_tv_al.png" group-title="Albania",AL: Tring Kids
+http://alblive.org:80/live/miro/mirodrug/799.ts
+#EXTINF:-1 tvg-id="Tring Life" tvg-name="AL: Tring Life" tvg-logo="http://alblive.org/logo/albania/tring_life.png" group-title="Albania",AL: Tring Life
+http://alblive.org:80/live/miro/mirodrug/110.ts
+#EXTINF:-1 tvg-id="Tring Planet" tvg-name="AL: Tring Planet" tvg-logo="http://alblive.org/logo/albania/tring_planet.png" group-title="Albania",AL: Tring Planet
+http://alblive.org:80/live/miro/mirodrug/111.ts
+#EXTINF:-1 tvg-id="TRING SHQIP" tvg-name="AL: Tring Shqip" tvg-logo="http://alblive.org/logo/albania/tring_shqip.png" group-title="Albania",AL: Tring Shqip
+http://alblive.org:80/live/miro/mirodrug/107.ts
+#EXTINF:-1 tvg-id="Smile" tvg-name="AL: Tring Smile" tvg-logo="http://alblive.org/logo/albania/tring_smile.png" group-title="Albania",AL: Tring Smile
+http://alblive.org:80/live/miro/mirodrug/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Shenja TV" tvg-logo="" group-title="Albania",ALB: Shenja TV
+http://alblive.org:80/live/miro/mirodrug/2499.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Stine" tvg-logo="" group-title="Albania",ALB: Stine
+http://alblive.org:80/live/miro/mirodrug/2413.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: T" tvg-logo="" group-title="Albania",ALB: T
+http://alblive.org:80/live/miro/mirodrug/2415.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: T HD" tvg-logo="" group-title="Albania",ALB: T HD
+http://alblive.org:80/live/miro/mirodrug/2414.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tibo Kids" tvg-logo="" group-title="Albania",ALB: Tibo Kids
+http://alblive.org:80/live/miro/mirodrug/2433.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Top Channel HD" tvg-logo="" group-title="Albania",ALB: Top Channel HD
+http://alblive.org:80/live/miro/mirodrug/2518.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Top Channel SD" tvg-logo="" group-title="Albania",ALB: Top Channel SD
+http://alblive.org:80/live/miro/mirodrug/2517.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Top News" tvg-logo="" group-title="Albania",ALB: Top News
+http://alblive.org:80/live/miro/mirodrug/2447.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TopEstrada TV HD" tvg-logo="" group-title="Albania",ALB: TopEstrada TV HD
+http://alblive.org:80/live/miro/mirodrug/2464.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Travel Channel" tvg-logo="" group-title="Albania",ALB: Travel Channel
+http://alblive.org:80/live/miro/mirodrug/2427.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tribuna TV" tvg-logo="" group-title="Albania",ALB: Tribuna TV
+http://alblive.org:80/live/miro/mirodrug/2484.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TVSH" tvg-logo="" group-title="Albania",ALB: TVSH
+http://alblive.org:80/live/miro/mirodrug/2510.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TVSH 1 HD" tvg-logo="" group-title="Albania",ALB: TVSH 1 HD
+http://alblive.org:80/live/miro/mirodrug/2509.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TVSH 2 HD" tvg-logo="" group-title="Albania",ALB: TVSH 2 HD
+http://alblive.org:80/live/miro/mirodrug/2508.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TVSH 3 HD" tvg-logo="" group-title="Albania",ALB: TVSH 3 HD
+http://alblive.org:80/live/miro/mirodrug/2507.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TVSH Film" tvg-logo="" group-title="Albania",ALB: TVSH Film
+http://alblive.org:80/live/miro/mirodrug/2505.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TVSH Shqip" tvg-logo="" group-title="Albania",ALB: TVSH Shqip
+http://alblive.org:80/live/miro/mirodrug/2506.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Vizion Plus HD" tvg-logo="" group-title="Albania",ALB: Vizion Plus HD
+http://alblive.org:80/live/miro/mirodrug/2513.ts
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 HD T" tvg-logo="" group-title="Sport",AL: Super Sport 1 HD T
+http://alblive.org:80/live/miro/mirodrug/2346.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD T" tvg-logo="" group-title="Sport",AL: Super Sport 2 HD T
+http://alblive.org:80/live/miro/mirodrug/2347.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD T" tvg-logo="" group-title="Sport",AL: Super Sport 3 HD T
+http://alblive.org:80/live/miro/mirodrug/2348.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 HD T" tvg-logo="" group-title="Sport",AL: Super Sport 4 HD T
+http://alblive.org:80/live/miro/mirodrug/2349.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1" tvg-logo="" group-title="Sport",AL: Super Sport 1
+http://alblive.org:80/live/miro/mirodrug/1324.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="" group-title="Sport",AL: Super Sport 2
+http://alblive.org:80/live/miro/mirodrug/1307.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3" tvg-logo="" group-title="Sport",AL: Super Sport 3
+http://alblive.org:80/live/miro/mirodrug/1308.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4" tvg-logo="" group-title="Sport",AL: Super Sport 4
+http://alblive.org:80/live/miro/mirodrug/1325.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport News HD" tvg-logo="" group-title="Albania",ALB: Tring Sport News HD
+http://alblive.org:80/live/miro/mirodrug/2356.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport 1 HD" tvg-logo="" group-title="Albania",ALB: Tring Sport 1 HD
+http://alblive.org:80/live/miro/mirodrug/2355.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport 2 HD" tvg-logo="" group-title="Albania",ALB: Tring Sport 2 HD
+http://alblive.org:80/live/miro/mirodrug/2354.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport 3 HD" tvg-logo="" group-title="Albania",ALB: Tring Sport 3 HD
+http://alblive.org:80/live/miro/mirodrug/2353.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ MACEDONIA  /  MAKEDONIJA ] =-=-=-" tvg-logo="" group-title="",-=-=-= [ MACEDONIA  /  MAKEDONIJA ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/932.ts
+#EXTINF:-1 tvg-id="MRT 1" tvg-name="MK: MRT 1" tvg-logo="http://alblive.org/logo/makedonija/mrt_mk_tv_1.png" group-title="Makedonija",MK: MRT 1
+http://alblive.org:80/live/miro/mirodrug/92.ts
+#EXTINF:-1 tvg-id="MRT 2" tvg-name="MK: MRT 2" tvg-logo="http://alblive.org/logo/makedonija/mrt_mk_tv_2.png" group-title="Makedonija",MK: MRT 2
+http://alblive.org:80/live/miro/mirodrug/93.ts
+#EXTINF:-1 tvg-id="MTV 3" tvg-name="MK: MRT 3" tvg-logo="http://alblive.org/logo/makedonija/mrt_sobraniski_kanal.png" group-title="Makedonija",MK: MRT 3
+http://alblive.org:80/live/miro/mirodrug/94.ts
+#EXTINF:-1 tvg-id="ALSAT M" tvg-name="MK: Alsat M" tvg-logo="http://alblive.org/logo/albania/alsat_m.png" group-title="Makedonija",MK: Alsat M
+http://alblive.org:80/live/miro/mirodrug/11.ts
+#EXTINF:-1 tvg-id="TV EDO" tvg-name="MK: TV Edo" tvg-logo="" group-title="Makedonija",MK: TV Edo
+http://alblive.org:80/live/miro/mirodrug/91.ts
+#EXTINF:-1 tvg-id="Shenja TV" tvg-name="MK: Shenja TV" tvg-logo="http://alblive.org/logo/albania/shenja_tv_al.png" group-title="Makedonija",MK: Shenja TV
+http://alblive.org:80/live/miro/mirodrug/858.ts
+#EXTINF:-1 tvg-id="TELMA" tvg-name="MK: Telma" tvg-logo="" group-title="Makedonija",MK: Telma
+http://alblive.org:80/live/miro/mirodrug/28.ts
+#EXTINF:-1 tvg-id="ALFA" tvg-name="MK: Alfa" tvg-logo="http://alblive.org/logo/makedonija/alfa_tv_mk.png" group-title="Makedonija",MK: Alfa
+http://alblive.org:80/live/miro/mirodrug/12.ts
+#EXTINF:-1 tvg-id="KANAL 5" tvg-name="MK: Kanal 5" tvg-logo="http://alblive.org/logo/makedonija/kanal5_mk.png" group-title="Makedonija",MK: Kanal 5
+http://alblive.org:80/live/miro/mirodrug/13.ts
+#EXTINF:-1 tvg-id="24 Vesti" tvg-name="MK: 24 Vesti" tvg-logo="http://alblive.org/logo/makedonija/24_vesti_mk.png" group-title="Makedonija",MK: 24 Vesti
+http://alblive.org:80/live/miro/mirodrug/85.ts
+#EXTINF:-1 tvg-id="TV SONCE" tvg-name="MK: TV Sonce" tvg-logo="" group-title="Makedonija",MK: TV Sonce
+http://alblive.org:80/live/miro/mirodrug/836.ts
+#EXTINF:-1 tvg-id="TERA" tvg-name="MK: Tera" tvg-logo="" group-title="Makedonija",MK: Tera
+http://alblive.org:80/live/miro/mirodrug/835.ts
+#EXTINF:-1 tvg-id="NASHA TV" tvg-name="MK: Nasha TV" tvg-logo="" group-title="Makedonija",MK: Nasha TV
+http://alblive.org:80/live/miro/mirodrug/837.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: IN TV AU" tvg-logo="" group-title="Makedonija",MK: IN TV AU
+http://alblive.org:80/live/miro/mirodrug/1330.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ GERMANY  /  DEUTSCHLAND ] =-=-=-" tvg-logo="" group-title="",-=-=-= [ GERMANY  /  DEUTSCHLAND ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/936.ts
+#EXTINF:-1 tvg-id="TcZurih" tvg-name="CH: Tele Zuri HD" tvg-logo="" group-title="Sky Deutschland",CH: Tele Zuri HD
+http://alblive.org:80/live/miro/mirodrug/1313.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 HD" tvg-logo="http://alblive.org/logo/germany/srf_1_ch.png" group-title="Sky Deutschland",CH: SRF 1 HD
+http://alblive.org:80/live/miro/mirodrug/871.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 2 HD" tvg-logo="http://alblive.org/logo/germany/srf_2_ch.png" group-title="Sky Deutschland",CH: SRF 2 HD
+http://alblive.org:80/live/miro/mirodrug/872.ts
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="AT: ORF 1 HD" tvg-logo="http://alblive.org/logo/germany/orf_eins_hd.png" group-title="Sky Deutschland",AT: ORF 1 HD
+http://alblive.org:80/live/miro/mirodrug/189.ts
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://alblive.org/logo/germany/orf_2_at_hd.png" group-title="Sky Deutschland",AT: ORF 2 HD
+http://alblive.org:80/live/miro/mirodrug/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV" tvg-logo="http://alblive.org/logo/germany/atv_at.png" group-title="Sky Deutschland",AT: ATV
+http://alblive.org:80/live/miro/mirodrug/866.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: Puls 4" tvg-logo="http://alblive.org/logo/germany/puls_4.png" group-title="Sky Deutschland",AT: Puls 4
+http://alblive.org:80/live/miro/mirodrug/867.ts
+#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="DE: Super RTL HD" tvg-logo="http://alblive.org/logo/germany/super_rtl_de.png" group-title="Sky Deutschland",DE: Super RTL HD
+http://alblive.org:80/live/miro/mirodrug/173.ts
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="DE: RTL Passion" tvg-logo="http://alblive.org/logo/germany/rtl_passion_de.png" group-title="Sky Deutschland",DE: RTL Passion
+http://alblive.org:80/live/miro/mirodrug/892.ts
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE: RTL Nitro HD" tvg-logo="http://alblive.org/logo/germany/rtl_nitro_de.png" group-title="Sky Deutschland",DE: RTL Nitro HD
+http://alblive.org:80/live/miro/mirodrug/159.ts
+#EXTINF:-1 tvg-id="ProSieben DE" tvg-name="DE: Pro 7" tvg-logo="http://alblive.org/logo/germany/pro_sieben_de.png" group-title="Sky Deutschland",DE: Pro 7
+http://alblive.org:80/live/miro/mirodrug/258.ts
+#EXTINF:-1 tvg-id="N24 DE" tvg-name="DE: N24" tvg-logo="http://alblive.org/logo/germany/n24_de.png" group-title="Sky Deutschland",DE: N24
+http://alblive.org:80/live/miro/mirodrug/923.ts
+#EXTINF:-1 tvg-id="Kabel Eins DE" tvg-name="DE: Kabel 1 FHD" tvg-logo="" group-title="Sky Deutschland",DE: Kabel 1 FHD
+http://alblive.org:80/live/miro/mirodrug/1282.ts
+#EXTINF:-1 tvg-id="Sat.1 DE" tvg-name="DE: SAT 1" tvg-logo="http://alblive.org/logo/germany/sat1.png" group-title="Sky Deutschland",DE: SAT 1
+http://alblive.org:80/live/miro/mirodrug/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste HD" tvg-logo="" group-title="Sky Deutschland",DE: Das Erste HD
+http://alblive.org:80/live/miro/mirodrug/989.ts
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="DE: ZDF HD" tvg-logo="http://alblive.org/logo/germany/zdf_de.png" group-title="Sky Deutschland",DE: ZDF HD
+http://alblive.org:80/live/miro/mirodrug/543.ts
+#EXTINF:-1 tvg-id="VOX DE" tvg-name="DE: VOX HD" tvg-logo="http://alblive.org/logo/germany/vox_de.png" group-title="Sky Deutschland",DE: VOX HD
+http://alblive.org:80/live/miro/mirodrug/186.ts
+#EXTINF:-1 tvg-id="Sixx DE" tvg-name="DE: Sixx HD" tvg-logo="http://alblive.org/logo/germany/sixx.png" group-title="Sky Deutschland",DE: Sixx HD
+http://alblive.org:80/live/miro/mirodrug/859.ts
+#EXTINF:-1 tvg-id="FOX DE" tvg-name="DE: FOX HD" tvg-logo="http://alblive.org/logo/turkey/FOX_Network.png" group-title="Sky Deutschland",DE: FOX HD
+http://alblive.org:80/live/miro/mirodrug/187.ts
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="DE: TNT Serie" tvg-logo="http://alblive.org/logo/germany/tnt_serie.png" group-title="Sky Deutschland",DE: TNT Serie
+http://alblive.org:80/live/miro/mirodrug/564.ts
+#EXTINF:-1 tvg-id="Syfy DE" tvg-name="DE: Syfy" tvg-logo="http://alblive.org/logo/turkey/Syfylogo.png" group-title="Sky Deutschland",DE: Syfy
+http://alblive.org:80/live/miro/mirodrug/235.ts
+#EXTINF:-1 tvg-id="Sky Hits DE" tvg-name="DE: Sky Hits HD" tvg-logo="http://alblive.org/logo/germany/sky_de_hits.png" group-title="Sky Deutschland",DE: Sky Hits HD
+http://alblive.org:80/live/miro/mirodrug/40.ts
+#EXTINF:-1 tvg-id="Sky Emotion DE" tvg-name="DE: Sky Emotion" tvg-logo="http://alblive.org/logo/germany/sky_de_emotion.png" group-title="Sky Deutschland",DE: Sky Emotion
+http://alblive.org:80/live/miro/mirodrug/46.ts
+#EXTINF:-1 tvg-id="Sky Comedy DE" tvg-name="DE: Sky Comedy HD" tvg-logo="http://alblive.org/logo/germany/sky_de_comedy.png" group-title="Sky Deutschland",DE: Sky Comedy HD
+http://alblive.org:80/live/miro/mirodrug/42.ts
+#EXTINF:-1 tvg-id="Sky Cinema +24 DE" tvg-name="DE: Sky Cinema +24 HD" tvg-logo="http://alblive.org/logo/germany/sky_de_cinema_plus24.png" group-title="Sky Deutschland",DE: Sky Cinema +24 HD
+http://alblive.org:80/live/miro/mirodrug/44.ts
+#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="DE: Sky Cinema HD" tvg-logo="http://alblive.org/logo/germany/sky_de_cinema.png" group-title="Sky Deutschland",DE: Sky Cinema HD
+http://alblive.org:80/live/miro/mirodrug/38.ts
+#EXTINF:-1 tvg-id="Sky Action DE" tvg-name="DE: Sky Action HD" tvg-logo="http://alblive.org/logo/germany/sky_de_action.png" group-title="Sky Deutschland",DE: Sky Action HD
+http://alblive.org:80/live/miro/mirodrug/43.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="DE: National Geographic Wild HD" tvg-logo="http://alblive.org/logo/germany/nat_geo_wild_us.png" group-title="Sky Deutschland",DE: National Geographic Wild HD
+http://alblive.org:80/live/miro/mirodrug/232.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="DE: National Geographic Channel HD" tvg-logo="http://alblive.org/logo/germany/nat_geo_us.png" group-title="Sky Deutschland",DE: National Geographic Channel HD
+http://alblive.org:80/live/miro/mirodrug/230.ts
+#EXTINF:-1 tvg-id="History Channel DE" tvg-name="DE: History Channel HD" tvg-logo="http://alblive.org/logo/germany/history_de.png" group-title="Sky Deutschland",DE: History Channel HD
+http://alblive.org:80/live/miro/mirodrug/37.ts
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="DE: Kika" tvg-logo="" group-title="Sky Deutschland",DE: Kika
+http://alblive.org:80/live/miro/mirodrug/1283.ts
+#EXTINF:-1 tvg-id="Arte DE" tvg-name="DE: DMAX FHD" tvg-logo="http://alblive.org/logo/germany/dmax_de.png" group-title="Sky Deutschland",DE: DMAX FHD
+http://alblive.org:80/live/miro/mirodrug/545.ts
+#EXTINF:-1 tvg-id="Disney Jr. DE" tvg-name="DE: Disney Junior HD" tvg-logo="http://alblive.org/logo/germany/disney_junior_us.png" group-title="Sky Deutschland",DE: Disney Junior HD
+http://alblive.org:80/live/miro/mirodrug/862.ts
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="DE: Discovery Channel HD" tvg-logo="http://alblive.org/logo/germany/discovery_global_us.png" group-title="Sky Deutschland",DE: Discovery Channel HD
+http://alblive.org:80/live/miro/mirodrug/231.ts
+#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="DE: Boomerang" tvg-logo="http://alblive.org/logo/germany/boomerang_global.png" group-title="Sky Deutschland",DE: Boomerang
+http://alblive.org:80/live/miro/mirodrug/262.ts
+#EXTINF:-1 tvg-id="13th Street DE" tvg-name="DE: 13th Street HD" tvg-logo="http://alblive.org/logo/germany/13th_street_de.png" group-title="Sky Deutschland",DE: 13th Street HD
+http://alblive.org:80/live/miro/mirodrug/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1" tvg-logo="http://alblive.org/logo/germany/sky_de_select.png" group-title="Sky Deutschland",DE: Sky Select 1
+http://alblive.org:80/live/miro/mirodrug/863.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2" tvg-logo="http://alblive.org/logo/germany/sky_de_select.png" group-title="Sky Deutschland",DE: Sky Select 2
+http://alblive.org:80/live/miro/mirodrug/864.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3" tvg-logo="http://alblive.org/logo/germany/sky_de_select.png" group-title="Sky Deutschland",DE: Sky Select 3
+http://alblive.org:80/live/miro/mirodrug/865.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ ITALY  /  ITALIA ] =-=-=-" tvg-logo="" group-title="",-=-=-= [ ITALY  /  ITALIA ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/935.ts
+#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="IT: Rai 1 HD" tvg-logo="http://alblive.org/logo/bg/italy/rai_1.png" group-title="Italia",IT: Rai 1 HD
+http://alblive.org:80/live/miro/mirodrug/238.ts
+#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="IT: Rai 2 HD" tvg-logo="http://alblive.org/logo/bg/italy/rai_2.png" group-title="Italia",IT: Rai 2 HD
+http://alblive.org:80/live/miro/mirodrug/244.ts
+#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="IT: Rai 3 HD" tvg-logo="http://alblive.org/logo/bg/italy/rai_3.png" group-title="Italia",IT: Rai 3 HD
+http://alblive.org:80/live/miro/mirodrug/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1 HD" tvg-logo="http://alblive.org/logo/bg/italy/mediaset_italia1.png" group-title="Italia",IT: Italia 1 HD
+http://alblive.org:80/live/miro/mirodrug/245.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4 HD" tvg-logo="http://alblive.org/logo/bg/italy/mediaset_rete4.png" group-title="Italia",IT: Rete 4 HD
+http://alblive.org:80/live/miro/mirodrug/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5 HD" tvg-logo="http://alblive.org/logo/bg/italy/mediaset_canale5.png" group-title="Italia",IT: Canale 5 HD
+http://alblive.org:80/live/miro/mirodrug/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG Com 24" tvg-logo="" group-title="Italia",IT: TG Com 24
+http://alblive.org:80/live/miro/mirodrug/239.ts
+#EXTINF:-1 tvg-id="Sky Uno IT" tvg-name="IT: Sky Uno HD" tvg-logo="http://alblive.org/logo/bg/italy/sky_it_uno.png" group-title="Italia",IT: Sky Uno HD
+http://alblive.org:80/live/miro/mirodrug/813.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai YoYo" tvg-logo="http://alblive.org/logo/bg/italy/rai_yoyo.png" group-title="Italia",IT: Rai YoYo
+http://alblive.org:80/live/miro/mirodrug/808.ts
+#EXTINF:-1 tvg-id="National Geographic IT" tvg-name="IT: National Geographic HD" tvg-logo="http://alblive.org/logo/bg/italy/nat_geo_us.png" group-title="Italia",IT: National Geographic HD
+http://alblive.org:80/live/miro/mirodrug/812.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOX Crime HD" tvg-logo="http://alblive.org/logo/turkey/fox_crime_global.png" group-title="Italia",IT: FOX Crime HD
+http://alblive.org:80/live/miro/mirodrug/810.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Travel & Living" tvg-logo="http://alblive.org/logo/bg/italy/discovery_global_us.png" group-title="Italia",IT: Discovery Travel & Living
+http://alblive.org:80/live/miro/mirodrug/811.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cielo HD" tvg-logo="http://alblive.org/logo/bg/italy/cielo.png" group-title="Italia",IT: Cielo HD
+http://alblive.org:80/live/miro/mirodrug/814.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ TURKEY  /  TURKCE ] =-=-=-" tvg-logo="" group-title="Turkish",-=-=-= [ TURKEY  /  TURKCE ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/934.ts
+#EXTINF:-1 tvg-id="19.TRT 1.digiturk.com.tr" tvg-name="TR: TRT 1 HD" tvg-logo="http://alblive.org/logo/turkey/trt1_avrupa.png" group-title="Turkish",TR: TRT 1 HD
+http://alblive.org:80/live/miro/mirodrug/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk" tvg-logo="http://alblive.org/logo/turkey/trt_turk_tr.png" group-title="Turkish",TR: TRT Turk
+http://alblive.org:80/live/miro/mirodrug/556.ts
+#EXTINF:-1 tvg-id="TRT OKUL" tvg-name="TR: TRT Okul" tvg-logo="http://alblive.org/logo/turkey/trt_okul.png" group-title="Turkish",TR: TRT Okul
+http://alblive.org:80/live/miro/mirodrug/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Muzik" tvg-logo="http://alblive.org/logo/turkey/trt_muzik.png" group-title="Turkish",TR: TRT Muzik
+http://alblive.org:80/live/miro/mirodrug/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Haber HD" tvg-logo="http://alblive.org/logo/turkey/trt_haber.png" group-title="Turkish",TR: TRT Haber HD
+http://alblive.org:80/live/miro/mirodrug/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet" tvg-logo="http://alblive.org/logo/turkey/trt_diyanet_tr.png" group-title="Turkish",TR: TRT Diyanet
+http://alblive.org:80/live/miro/mirodrug/580.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Cocuk HD" tvg-logo="http://alblive.org/logo/turkey/trt_cocuk.png" group-title="Turkish",TR: TRT Cocuk HD
+http://alblive.org:80/live/miro/mirodrug/554.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="http://alblive.org/logo/turkey/trt_belgesel_tr.png" group-title="Turkish",TR: TRT Belgesel HD
+http://alblive.org:80/live/miro/mirodrug/557.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8" tvg-logo="http://alblive.org/logo/turkey/tv8_tr.png" group-title="Turkish",TR: TV 8
+http://alblive.org:80/live/miro/mirodrug/106.ts
+#EXTINF:-1 tvg-id="28.NTV.digiturk.com.tr" tvg-name="TR: NTV Turkiye HD" tvg-logo="http://alblive.org/logo/turkey/ntv_tr.png" group-title="Turkish",TR: NTV Turkiye HD
+http://alblive.org:80/live/miro/mirodrug/123.ts
+#EXTINF:-1 tvg-id="16.Kanal D.digiturk.com.tr" tvg-name="TR: Kanal D" tvg-logo="http://alblive.org/logo/turkey/kanal_d_tr.png" group-title="Turkish",TR: Kanal D
+http://alblive.org:80/live/miro/mirodrug/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal A" tvg-logo="http://alblive.org/logo/turkey/kanal_a_tr.png" group-title="Turkish",TR: Kanal A
+http://alblive.org:80/live/miro/mirodrug/887.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Turk HD" tvg-logo="http://alblive.org/logo/turkey/kanal7_tr.png" group-title="Turkish",TR: Kanal 7 Turk HD
+http://alblive.org:80/live/miro/mirodrug/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk HD" tvg-logo="" group-title="Turkish",TR: Haber Turk HD
+http://alblive.org:80/live/miro/mirodrug/1034.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Flash TV" tvg-logo="http://alblive.org/logo/turkey/flash_tv_tr.png" group-title="Turkish",TR: Flash TV
+http://alblive.org:80/live/miro/mirodrug/559.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIL HD" tvg-logo="http://alblive.org/logo/turkey/fil_tv_tr.png" group-title="Turkish",TR: FIL HD
+http://alblive.org:80/live/miro/mirodrug/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D" tvg-logo="http://alblive.org/logo/turkey/eurod.png" group-title="Turkish",TR: Euro D
+http://alblive.org:80/live/miro/mirodrug/884.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="http://alblive.org/logo/turkey/kral_tr_tv.png" group-title="Turkish",TR: Kral TV
+http://alblive.org:80/live/miro/mirodrug/860.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Pop TV" tvg-logo="http://alblive.org/logo/turkey/kral_tr_pop_tv.png" group-title="Turkish",TR: Kral Pop TV
+http://alblive.org:80/live/miro/mirodrug/861.ts
+#EXTINF:-1 tvg-id="112.DREAM TV.dsmart.com.tr" tvg-name="TR: Dream TV" tvg-logo="http://alblive.org/logo/turkey/dream_tv_tr.png" group-title="Turkish",TR: Dream TV
+http://alblive.org:80/live/miro/mirodrug/886.ts
+#EXTINF:-1 tvg-id="113.DREAMTURK.dsmart.com.tr" tvg-name="TR: Dream Turk" tvg-logo="http://alblive.org/logo/turkey/dream_turk.png" group-title="Turkish",TR: Dream Turk
+http://alblive.org:80/live/miro/mirodrug/885.ts
+#EXTINF:-1 tvg-id="901.DISCOVERY HD.dsmart.com.tr" tvg-name="TR: Discovery HD" tvg-logo="http://alblive.org/logo/turkey/discovery_global_us_hd.png" group-title="Turkish",TR: Discovery HD
+http://alblive.org:80/live/miro/mirodrug/889.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk" tvg-logo="http://alblive.org/logo/turkey/cnn_turk.png" group-title="Turkish",TR: CNN Turk
+http://alblive.org:80/live/miro/mirodrug/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cartoon Network" tvg-logo="http://alblive.org/logo/turkey/Cartoon_Network_2004_logo.svg.png" group-title="Turkish",TR: Cartoon Network
+http://alblive.org:80/live/miro/mirodrug/534.ts
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="TR: Beyaz TV" tvg-logo="http://alblive.org/logo/turkey/beyaz_tv_tr.png" group-title="Turkish",TR: Beyaz TV
+http://alblive.org:80/live/miro/mirodrug/579.ts
+#EXTINF:-1 tvg-id="17.ATV.digiturk.com.tr" tvg-name="TR: ATV" tvg-logo="http://alblive.org/logo/turkey/atv_turkiye.png" group-title="Turkish",TR: ATV
+http://alblive.org:80/live/miro/mirodrug/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Nature / History HD" tvg-logo="" group-title="Turkish",TR: Viasat Nature / History HD
+http://alblive.org:80/live/miro/mirodrug/849.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animal Planet HD" tvg-logo="http://alblive.org/logo/turkey/animal_planet_us_hd.png" group-title="Turkish",TR: Animal Planet HD
+http://alblive.org:80/live/miro/mirodrug/562.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber HD" tvg-logo="http://alblive.org/logo/turkey/a_haber.png" group-title="Turkish",TR: A Haber HD
+http://alblive.org:80/live/miro/mirodrug/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" tvg-logo="http://alblive.org/logo/turkey/tgrt_eu.png" group-title="Turkish",TR: TGRT EU
+http://alblive.org:80/live/miro/mirodrug/879.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Belgesel" tvg-logo="http://alblive.org/logo/turkey/tgrt_belgesel.png" group-title="Turkish",TR: TGRT Belgesel
+http://alblive.org:80/live/miro/mirodrug/880.ts
+#EXTINF:-1 tvg-id="8755.Star TV HD.dsmart.com.tr" tvg-name="TR: Star" tvg-logo="http://alblive.org/logo/turkey/star_tv_tr.png" group-title="Turkish",TR: Star
+http://alblive.org:80/live/miro/mirodrug/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV HD" tvg-logo="http://alblive.org/logo/turkey/sinema_tv_tr.png" group-title="Turkish",TR: Sinema TV HD
+http://alblive.org:80/live/miro/mirodrug/890.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2 HD" tvg-logo="http://alblive.org/logo/turkey/sinema_tv2_tr.png" group-title="Turkish",TR: Sinema TV 2 HD
+http://alblive.org:80/live/miro/mirodrug/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon" tvg-logo="" group-title="Turkish",TR: Sinema Aksiyon
+http://alblive.org:80/live/miro/mirodrug/206.ts
+#EXTINF:-1 tvg-id="8421.Show TV HD.dsmart.com.tr" tvg-name="TR: Show HD" tvg-logo="http://alblive.org/logo/turkey/show_tv_tr.png" group-title="Turkish",TR: Show HD
+http://alblive.org:80/live/miro/mirodrug/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Seymen TV" tvg-logo="http://alblive.org/logo/turkey/seymen_tv_tr.png" group-title="Turkish",TR: Seymen TV
+http://alblive.org:80/live/miro/mirodrug/856.ts
+#EXTINF:-1 tvg-id="SEMERKAND TV HD" tvg-name="TR: Semerkand HD" tvg-logo="http://alblive.org/logo/turkey/semerkand_tv.png" group-title="Turkish",TR: Semerkand HD
+http://alblive.org:80/live/miro/mirodrug/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 1 HD" tvg-logo="http://alblive.org/logo/turkey/salon1.png" group-title="Turkish",TR: Salon 1 HD
+http://alblive.org:80/live/miro/mirodrug/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 2 HD" tvg-logo="http://alblive.org/logo/turkey/salon2.png" group-title="Turkish",TR: Salon 2 HD
+http://alblive.org:80/live/miro/mirodrug/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 3 HD" tvg-logo="http://alblive.org/logo/turkey/salon3.png" group-title="Turkish",TR: Salon 3 HD
+http://alblive.org:80/live/miro/mirodrug/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aksu TV" tvg-logo="http://alblive.org/logo/turkey/rumeli_tv.png" group-title="Turkish",TR: Aksu TV
+http://alblive.org:80/live/miro/mirodrug/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Planet Turk" tvg-logo="http://alblive.org/logo/turkey/planet_turk.png" group-title="Turkish",TR: Planet Turk
+http://alblive.org:80/live/miro/mirodrug/857.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Planet Pembe" tvg-logo="http://alblive.org/logo/turkey/planet_pembe.png" group-title="Turkish",TR: Planet Pembe
+http://alblive.org:80/live/miro/mirodrug/851.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Planet Mutfak" tvg-logo="http://alblive.org/logo/turkey/planet_mutfak_tr.png" group-title="Turkish",TR: Planet Mutfak
+http://alblive.org:80/live/miro/mirodrug/854.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Planet Cocuk" tvg-logo="http://alblive.org/logo/turkey/planet_cocuk.png" group-title="Turkish",TR: Planet Cocuk
+http://alblive.org:80/live/miro/mirodrug/852.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 1 HD" tvg-logo="" group-title="Sport",TR: Eurosport 1 HD
+http://alblive.org:80/live/miro/mirodrug/850.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Box Office" tvg-logo="" group-title="Turkish",TR: Bein Box Office
+http://alblive.org:80/live/miro/mirodrug/563.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Turk" tvg-logo="" group-title="Turkish",TR: MovieSmart Turk
+http://alblive.org:80/live/miro/mirodrug/208.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Family / Premum 2" tvg-logo="http://alblive.org/logo/turkey/movie_smart_family.png" group-title="Turkish",TR: MovieSmart Family / Premum 2
+http://alblive.org:80/live/miro/mirodrug/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Action" tvg-logo="http://alblive.org/logo/turkey/movie_smart_action.png" group-title="Turkish",TR: Moviesmart Action
+http://alblive.org:80/live/miro/mirodrug/558.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science HD" tvg-logo="" group-title="Turkish",TR: Discovery Science HD
+http://alblive.org:80/live/miro/mirodrug/848.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MMX Fest" tvg-logo="http://alblive.org/logo/turkey/moviemax_premier_2.png" group-title="Turkish",TR: MMX Fest
+http://alblive.org:80/live/miro/mirodrug/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MMX Premium" tvg-logo="http://alblive.org/logo/turkey/moviemax_premier.png" group-title="Turkish",TR: MMX Premium
+http://alblive.org:80/live/miro/mirodrug/207.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Premium" tvg-logo="http://alblive.org/logo/turkey/movie_smart_fest.png" group-title="Turkish",TR: Moviesmart Premium
+http://alblive.org:80/live/miro/mirodrug/561.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Loca 1" tvg-logo="" group-title="Turkish",TR: Loca 1
+http://alblive.org:80/live/miro/mirodrug/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Go" tvg-logo="http://alblive.org/logo/turkey/minika_go.png" group-title="Turkish",TR: Minika Go
+http://alblive.org:80/live/miro/mirodrug/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk" tvg-logo="http://alblive.org/logo/turkey/minika_cocuk.png" group-title="Turkish",TR: Minika Cocuk
+http://alblive.org:80/live/miro/mirodrug/560.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 2 3D" tvg-logo="http://alblive.org/logo/turkey/sinetivi_tr.png" group-title="Turkish",TR: Salon 2 3D
+http://alblive.org:80/live/miro/mirodrug/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vip Channel TURK" tvg-logo="" group-title="Turkish",TR: Vip Channel TURK
+http://alblive.org:80/live/miro/mirodrug/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam HD" tvg-logo="http://alblive.org/logo/turkey/yesilcam.png" group-title="Turkish",TR: Yesilcam HD
+http://alblive.org:80/live/miro/mirodrug/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="http://alblive.org/logo/turkey/yaban_tv.png" group-title="Turkish",TR: Yaban TV
+http://alblive.org:80/live/miro/mirodrug/875.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel HD" tvg-logo="http://alblive.org/logo/turkey/world_travel_channel.png" group-title="Turkish",TR: History Channel HD
+http://alblive.org:80/live/miro/mirodrug/855.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viva" tvg-logo="http://alblive.org/logo/turkey/viva_tr.png" group-title="Turkish",TR: Viva
+http://alblive.org:80/live/miro/mirodrug/853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Box Office 1 HD" tvg-logo="" group-title="Turkish",TR: Bein Box Office 1 HD
+http://alblive.org:80/live/miro/mirodrug/565.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TeVe 2" tvg-logo="http://alblive.org/logo/turkey/tv2_tr.png" group-title="Turkish",TR: TeVe 2
+http://alblive.org:80/live/miro/mirodrug/883.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ EX - YU  /  BALKAN ] =-=-=-" tvg-logo="" group-title="",-=-=-= [ EX - YU  /  BALKAN ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/933.ts
+#EXTINF:-1 tvg-id="" tvg-name="------&#62; Srbija" tvg-logo="" group-title="Ex-Yu",------&#62; Srbija
+http://alblive.org:80/live/miro/mirodrug/1033.ts
+#EXTINF:-1 tvg-id="RTS 1" tvg-name="SR: RTS 1" tvg-logo="http://alblive.org/logo/srbija/rts_rs_1.png" group-title="Ex-Yu",SR: RTS 1
+http://alblive.org:80/live/miro/mirodrug/177.ts
+#EXTINF:-1 tvg-id="RTS 2" tvg-name="SR: RTS 2" tvg-logo="http://alblive.org/logo/srbija/rts_rs_2.png" group-title="Ex-Yu",SR: RTS 2
+http://alblive.org:80/live/miro/mirodrug/176.ts
+#EXTINF:-1 tvg-id="RTRS" tvg-name="SR: RTRS" tvg-logo="" group-title="Ex-Yu",SR: RTRS
+http://alblive.org:80/live/miro/mirodrug/783.ts
+#EXTINF:-1 tvg-id="Prva" tvg-name="SR: Prva" tvg-logo="http://alblive.org/logo/srbija/prva_rs.png" group-title="Ex-Yu",SR: Prva
+http://alblive.org:80/live/miro/mirodrug/164.ts
+#EXTINF:-1 tvg-id="Prva Plus" tvg-name="SR: Prva Plus" tvg-logo="http://alblive.org/logo/srbija/prva_rs.png" group-title="Ex-Yu",SR: Prva Plus
+http://alblive.org:80/live/miro/mirodrug/597.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: RTV Novi Pazar" tvg-logo="http://alblive.org/logo/srbija/tv_novi_pazar.png" group-title="Ex-Yu",SR: RTV Novi Pazar
+http://alblive.org:80/live/miro/mirodrug/897.ts
+#EXTINF:-1 tvg-id="RTV 1" tvg-name="SR: RTV 1 Vojvodina" tvg-logo="" group-title="Ex-Yu",SR: RTV 1 Vojvodina
+http://alblive.org:80/live/miro/mirodrug/898.ts
+#EXTINF:-1 tvg-id="Pink 1" tvg-name="SR: Pink" tvg-logo="http://alblive.org/logo/srbija/pink_1_rs.png" group-title="Ex-Yu",SR: Pink
+http://alblive.org:80/live/miro/mirodrug/179.ts
+#EXTINF:-1 tvg-id="Pink 2" tvg-name="SR: Pink 2" tvg-logo="http://alblive.org/logo/srbija/pink_2_rs.png" group-title="Ex-Yu",SR: Pink 2
+http://alblive.org:80/live/miro/mirodrug/175.ts
+#EXTINF:-1 tvg-id="Pink 3 Info" tvg-name="SR: Pink 3 Info" tvg-logo="http://alblive.org/logo/srbija/pink_3_info_rs.png" group-title="Ex-Yu",SR: Pink 3 Info
+http://alblive.org:80/live/miro/mirodrug/594.ts
+#EXTINF:-1 tvg-id="Nova RS" tvg-name="SR: Nova RS" tvg-logo="" group-title="Ex-Yu",SR: Nova RS
+http://alblive.org:80/live/miro/mirodrug/1285.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Serije" tvg-logo="" group-title="Ex-Yu",SR: Pink Serije
+http://alblive.org:80/live/miro/mirodrug/1281.ts
+#EXTINF:-1 tvg-id="Pink World Cinema" tvg-name="SR: Pink World Cinema" tvg-logo="http://alblive.org/logo/srbija/pink_world_rs.png" group-title="Ex-Yu",SR: Pink World Cinema
+http://alblive.org:80/live/miro/mirodrug/781.ts
+#EXTINF:-1 tvg-id="Pink Western" tvg-name="SR: Pink Western" tvg-logo="" group-title="Ex-Yu",SR: Pink Western
+http://alblive.org:80/live/miro/mirodrug/596.ts
+#EXTINF:-1 tvg-id="Pink Thriller" tvg-name="SR: Pink Thriller" tvg-logo="http://alblive.org/logo/srbija/pink_rs_thriller.png" group-title="Ex-Yu",SR: Pink Thriller
+http://alblive.org:80/live/miro/mirodrug/528.ts
+#EXTINF:-1 tvg-id="Pink Super Kids" tvg-name="SR: Pink Super Kids" tvg-logo="" group-title="Ex-Yu",SR: Pink Super Kids
+http://alblive.org:80/live/miro/mirodrug/530.ts
+#EXTINF:-1 tvg-id="Pink Show" tvg-name="SR: Pink Show" tvg-logo="" group-title="Ex-Yu",SR: Pink Show
+http://alblive.org:80/live/miro/mirodrug/1292.ts
+#EXTINF:-1 tvg-id="Pink Reality" tvg-name="SR: Pink Reality" tvg-logo="http://alblive.org/logo/srbija/pink_reality_rs.png" group-title="Ex-Yu",SR: Pink Reality
+http://alblive.org:80/live/miro/mirodrug/787.ts
+#EXTINF:-1 tvg-id="Pink Premium" tvg-name="SR: Pink Premium" tvg-logo="http://alblive.org/logo/srbija/pink_premium_rs.png" group-title="Ex-Yu",SR: Pink Premium
+http://alblive.org:80/live/miro/mirodrug/529.ts
+#EXTINF:-1 tvg-id="Pink Plus" tvg-name="SR: Pink Plus" tvg-logo="http://alblive.org/logo/srbija/pink_plus.png" group-title="Ex-Yu",SR: Pink Plus
+http://alblive.org:80/live/miro/mirodrug/169.ts
+#EXTINF:-1 tvg-id="Pink Music 1" tvg-name="SR: Pink Music" tvg-logo="http://alblive.org/logo/srbija/pink_music.png" group-title="Ex-Yu",SR: Pink Music
+http://alblive.org:80/live/miro/mirodrug/526.ts
+#EXTINF:-1 tvg-id="Pink Movies" tvg-name="SR: Pink Movies" tvg-logo="" group-title="Ex-Yu",SR: Pink Movies
+http://alblive.org:80/live/miro/mirodrug/1288.ts
+#EXTINF:-1 tvg-id="Pink M" tvg-name="SR: Pink M" tvg-logo="" group-title="Ex-Yu",SR: Pink M
+http://alblive.org:80/live/miro/mirodrug/1286.ts
+#EXTINF:-1 tvg-id="Pink Kuvar" tvg-name="SR: Pink Kuvar" tvg-logo="" group-title="Ex-Yu",SR: Pink Kuvar
+http://alblive.org:80/live/miro/mirodrug/797.ts
+#EXTINF:-1 tvg-id="Pink Horror" tvg-name="SR: Pink Horror" tvg-logo="http://alblive.org/logo/srbija/pink_rs_horror.png" group-title="Ex-Yu",SR: Pink Horror
+http://alblive.org:80/live/miro/mirodrug/595.ts
+#EXTINF:-1 tvg-id="Pink Hits 1" tvg-name="SR: Pink Folk 1" tvg-logo="http://alblive.org/logo/srbija/pink_folk1.png" group-title="Ex-Yu",SR: Pink Folk 1
+http://alblive.org:80/live/miro/mirodrug/791.ts
+#EXTINF:-1 tvg-id="Pink Film" tvg-name="SR: Pink Film" tvg-logo="" group-title="Ex-Yu",SR: Pink Film
+http://alblive.org:80/live/miro/mirodrug/888.ts
+#EXTINF:-1 tvg-id="Pink Extra" tvg-name="SR: Pink Extra" tvg-logo="" group-title="Ex-Yu",SR: Pink Extra
+http://alblive.org:80/live/miro/mirodrug/1287.ts
+#EXTINF:-1 tvg-id="Pink Comedy" tvg-name="SR: Pink Comedy" tvg-logo="http://alblive.org/logo/srbija/pink_extra.png" group-title="Ex-Yu",SR: Pink Comedy
+http://alblive.org:80/live/miro/mirodrug/165.ts
+#EXTINF:-1 tvg-id="Pink Classic" tvg-name="SR: Pink Classic" tvg-logo="" group-title="Ex-Yu",SR: Pink Classic
+http://alblive.org:80/live/miro/mirodrug/1291.ts
+#EXTINF:-1 tvg-id="Pink BH" tvg-name="SR: Pink BH" tvg-logo="http://alblive.org/logo/srbija/pink_bh.png" group-title="Ex-Yu",SR: Pink BH
+http://alblive.org:80/live/miro/mirodrug/790.ts
+#EXTINF:-1 tvg-id="Pink Action" tvg-name="SR: Pink Action" tvg-logo="http://alblive.org/logo/srbija/pink_action.png" group-title="Ex-Yu",SR: Pink Action
+http://alblive.org:80/live/miro/mirodrug/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Posavina" tvg-logo="" group-title="Ex-Yu",SR: Posavina
+http://alblive.org:80/live/miro/mirodrug/895.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="SR: Davinci Learning" tvg-logo="" group-title="Ex-Yu",SR: Davinci Learning
+http://alblive.org:80/live/miro/mirodrug/1296.ts
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="SR: National Geographic Channel" tvg-logo="http://alblive.org/logo/srbija/nat_geo_us.png" group-title="Ex-Yu",SR: National Geographic Channel
+http://alblive.org:80/live/miro/mirodrug/796.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="SR: MTV Adria" tvg-logo="" group-title="MTV Networks",SR: MTV Adria
+http://alblive.org:80/live/miro/mirodrug/219.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Nick JR" tvg-logo="" group-title="Ex-Yu",SR: Nick JR
+http://alblive.org:80/live/miro/mirodrug/1295.ts
+#EXTINF:-1 tvg-id="Mini TV" tvg-name="SR: Mini Ultra" tvg-logo="http://alblive.org/logo/srbija/mini_ultra_rs.png" group-title="Ex-Yu",SR: Mini Ultra
+http://alblive.org:80/live/miro/mirodrug/795.ts
+#EXTINF:-1 tvg-id="Lov i Ribolov" tvg-name="SR: Lov I Ribolov" tvg-logo="" group-title="Ex-Yu",SR: Lov I Ribolov
+http://alblive.org:80/live/miro/mirodrug/593.ts
+#EXTINF:-1 tvg-id="History Channel" tvg-name="SR: History Channel" tvg-logo="" group-title="Ex-Yu",SR: History Channel
+http://alblive.org:80/live/miro/mirodrug/1297.ts
+#EXTINF:-1 tvg-id="HBO Adria" tvg-name="SR: HBO Adria HD" tvg-logo="http://alblive.org/logo/srbija/hbo_adria.png" group-title="Ex-Yu",SR: HBO Adria HD
+http://alblive.org:80/live/miro/mirodrug/254.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="SR: HBO 2 HD" tvg-logo="" group-title="Ex-Yu",SR: HBO 2 HD
+http://alblive.org:80/live/miro/mirodrug/794.ts
+#EXTINF:-1 tvg-id="Happy TV" tvg-name="SR: Happy" tvg-logo="http://alblive.org/logo/srbija/happy_tv_rs.png" group-title="Ex-Yu",SR: Happy
+http://alblive.org:80/live/miro/mirodrug/251.ts
+#EXTINF:-1 tvg-id="Grand Narodna TV" tvg-name="SR: Grand" tvg-logo="http://alblive.org/logo/srbija/grand_tv_rs.png" group-title="Ex-Yu",SR: Grand
+http://alblive.org:80/live/miro/mirodrug/250.ts
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="SR: FOX Life HD" tvg-logo="http://alblive.org/logo/turkey/fox_life_global.png" group-title="Ex-Yu",SR: FOX Life HD
+http://alblive.org:80/live/miro/mirodrug/256.ts
+#EXTINF:-1 tvg-id="FOX Crime" tvg-name="SR: FOX Crime" tvg-logo="http://alblive.org/logo/turkey/fox_crime_global.png" group-title="Ex-Yu",SR: FOX Crime
+http://alblive.org:80/live/miro/mirodrug/257.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="HR: FOX" tvg-logo="http://alblive.org/logo/turkey/FOX_Network.png" group-title="Ex-Yu",HR: FOX
+http://alblive.org:80/live/miro/mirodrug/255.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="SR: E! Entertainment" tvg-logo="" group-title="Ex-Yu",SR: E! Entertainment
+http://alblive.org:80/live/miro/mirodrug/1302.ts
+#EXTINF:-1 tvg-id="DM Sat" tvg-name="SR: DM Sat" tvg-logo="http://alblive.org/logo/srbija/dm_sat_rs.png" group-title="Ex-Yu",SR: DM Sat
+http://alblive.org:80/live/miro/mirodrug/214.ts
+#EXTINF:-1 tvg-id="ID Xtra" tvg-name="SR: Discovery ID" tvg-logo="" group-title="Ex-Yu",SR: Discovery ID
+http://alblive.org:80/live/miro/mirodrug/1300.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="SR: Discovery" tvg-logo="http://alblive.org/logo/srbija/discovery_global_us.png" group-title="Ex-Yu",SR: Discovery
+http://alblive.org:80/live/miro/mirodrug/907.ts
+#EXTINF:-1 tvg-id="CineStar TV (Srb)" tvg-name="SR: Cinestar TV" tvg-logo="http://alblive.org/logo/srbija/cine_star_rs_tv.png" group-title="Ex-Yu",SR: Cinestar TV
+http://alblive.org:80/live/miro/mirodrug/906.ts
+#EXTINF:-1 tvg-id="Cinemania" tvg-name="SR: Cinemania" tvg-logo="http://alblive.org/logo/srbija/cinemania_rs.png" group-title="Ex-Yu",SR: Cinemania
+http://alblive.org:80/live/miro/mirodrug/802.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: BN Music" tvg-logo="" group-title="Ex-Yu",SR: BN Music
+http://alblive.org:80/live/miro/mirodrug/101.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="SR: Baby TV" tvg-logo="" group-title="Ex-Yu",SR: Baby TV
+http://alblive.org:80/live/miro/mirodrug/1304.ts
+#EXTINF:-1 tvg-id="B92" tvg-name="SR: B92" tvg-logo="http://alblive.org/logo/srbija/b92_rs_tv.png" group-title="Ex-Yu",SR: B92
+http://alblive.org:80/live/miro/mirodrug/590.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="SR: AXN Adria" tvg-logo="http://alblive.org/logo/srbija/axn_global.png" group-title="Ex-Yu",SR: AXN Adria
+http://alblive.org:80/live/miro/mirodrug/900.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="SR: Animal Planet" tvg-logo="http://alblive.org/logo/srbija/animal_planet_us.png" group-title="Ex-Yu",SR: Animal Planet
+http://alblive.org:80/live/miro/mirodrug/253.ts
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="SR: 24 Kitchen" tvg-logo="http://alblive.org/logo/srbija/24_kitchen_us.png" group-title="Ex-Yu",SR: 24 Kitchen
+http://alblive.org:80/live/miro/mirodrug/782.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="SR: Pink Crime & Mistery" tvg-logo="" group-title="Ex-Yu",SR: Pink Crime & Mistery
+http://alblive.org:80/live/miro/mirodrug/1294.ts
+#EXTINF:-1 tvg-id="TV 1000" tvg-name="SR: TV 1000" tvg-logo="" group-title="Ex-Yu",SR: TV 1000
+http://alblive.org:80/live/miro/mirodrug/1293.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Top Sound" tvg-logo="" group-title="Ex-Yu",SR: Top Sound
+http://alblive.org:80/live/miro/mirodrug/102.ts
+#EXTINF:-1 tvg-id="Pink Pedia" tvg-name="SR: Pink Pedia" tvg-logo="" group-title="Ex-Yu",SR: Pink Pedia
+http://alblive.org:80/live/miro/mirodrug/1303.ts
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HR: HRT 1" tvg-logo="" group-title="Ex-Yu",HR: HRT 1
+http://alblive.org:80/live/miro/mirodrug/162.ts
+#EXTINF:-1 tvg-id="HRT 2" tvg-name="HR: HRT 2" tvg-logo="" group-title="Ex-Yu",HR: HRT 2
+http://alblive.org:80/live/miro/mirodrug/160.ts
+#EXTINF:-1 tvg-id="HRT 3" tvg-name="HR: HRT 3" tvg-logo="" group-title="Ex-Yu",HR: HRT 3
+http://alblive.org:80/live/miro/mirodrug/1096.ts
+#EXTINF:-1 tvg-id="HRT 4" tvg-name="HR: HRT 4" tvg-logo="" group-title="Ex-Yu",HR: HRT 4
+http://alblive.org:80/live/miro/mirodrug/1097.ts
+#EXTINF:-1 tvg-id="RTL" tvg-name="HR: RTL Televizija" tvg-logo="" group-title="Ex-Yu",HR: RTL Televizija
+http://alblive.org:80/live/miro/mirodrug/163.ts
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="HR: RTL Living" tvg-logo="" group-title="Ex-Yu",HR: RTL Living
+http://alblive.org:80/live/miro/mirodrug/901.ts
+#EXTINF:-1 tvg-id="RTL Kockica" tvg-name="HR: RTL Kockica" tvg-logo="" group-title="Ex-Yu",HR: RTL Kockica
+http://alblive.org:80/live/miro/mirodrug/902.ts
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="HR: RTL Crime" tvg-logo="" group-title="Ex-Yu",HR: RTL Crime
+http://alblive.org:80/live/miro/mirodrug/1284.ts
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="HR: RTL 2" tvg-logo="" group-title="Ex-Yu",HR: RTL 2
+http://alblive.org:80/live/miro/mirodrug/161.ts
+#EXTINF:-1 tvg-id="Nova TV" tvg-name="HR: Nova" tvg-logo="" group-title="Ex-Yu",HR: Nova
+http://alblive.org:80/live/miro/mirodrug/158.ts
+#EXTINF:-1 tvg-id="Klasik TV" tvg-name="HR: Klasik TV" tvg-logo="" group-title="Ex-Yu",HR: Klasik TV
+http://alblive.org:80/live/miro/mirodrug/252.ts
+#EXTINF:-1 tvg-id="Jugoton" tvg-name="HR: Jugoton" tvg-logo="" group-title="Ex-Yu",HR: Jugoton
+http://alblive.org:80/live/miro/mirodrug/899.ts
+#EXTINF:-1 tvg-id="FOX Movies" tvg-name="HR: Fox Movies" tvg-logo="http://alblive.org/logo/srbija/fox_movies_rs.png" group-title="Ex-Yu",HR: Fox Movies
+http://alblive.org:80/live/miro/mirodrug/903.ts
+#EXTINF:-1 tvg-id="Doma TV" tvg-name="HR: Doma TV" tvg-logo="" group-title="Ex-Yu",HR: Doma TV
+http://alblive.org:80/live/miro/mirodrug/592.ts
+#EXTINF:-1 tvg-id="CMC" tvg-name="HR: CMC" tvg-logo="" group-title="Ex-Yu",HR: CMC
+http://alblive.org:80/live/miro/mirodrug/908.ts
+#EXTINF:-1 tvg-id="CineStar Premiere 2" tvg-name="HR: Cinestar Premiere 2" tvg-logo="" group-title="Ex-Yu",HR: Cinestar Premiere 2
+http://alblive.org:80/live/miro/mirodrug/260.ts
+#EXTINF:-1 tvg-id="CineStar Premiere" tvg-name="HR: Cinestar Premiere 1" tvg-logo="" group-title="Ex-Yu",HR: Cinestar Premiere 1
+http://alblive.org:80/live/miro/mirodrug/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Cinemax 2 HD" tvg-logo="" group-title="Ex-Yu",HR: Cinemax 2 HD
+http://alblive.org:80/live/miro/mirodrug/1095.ts
+#EXTINF:-1 tvg-id="Cinemax 1" tvg-name="HR: Cinemax 1 HD" tvg-logo="" group-title="Ex-Yu",HR: Cinemax 1 HD
+http://alblive.org:80/live/miro/mirodrug/904.ts
+#EXTINF:-1 tvg-id="" tvg-name="------&#62; Bosna & Hercegovina" tvg-logo="" group-title="Ex-Yu",------&#62; Bosna & Hercegovina
+http://alblive.org:80/live/miro/mirodrug/1029.ts
+#EXTINF:-1 tvg-id="" tvg-name="BA: TV Sarajevo" tvg-logo="" group-title="Ex-Yu",BA: TV Sarajevo
+http://alblive.org:80/live/miro/mirodrug/1032.ts
+#EXTINF:-1 tvg-id="Pink World" tvg-name="SR: Pink World" tvg-logo="" group-title="Ex-Yu",SR: Pink World
+http://alblive.org:80/live/miro/mirodrug/784.ts
+#EXTINF:-1 tvg-id="Pink Folk 2" tvg-name="SR: Pink Folk 2" tvg-logo="" group-title="Ex-Yu",SR: Pink Folk 2
+http://alblive.org:80/live/miro/mirodrug/792.ts
+#EXTINF:-1 tvg-id="OBN" tvg-name="BA: OBN" tvg-logo="" group-title="Ex-Yu",BA: OBN
+http://alblive.org:80/live/miro/mirodrug/166.ts
+#EXTINF:-1 tvg-id="N1" tvg-name="SR: N1 HD" tvg-logo="http://alblive.org/logo/srbija/n1_rs.png" group-title="Ex-Yu",SR: N1 HD
+http://alblive.org:80/live/miro/mirodrug/785.ts
+#EXTINF:-1 tvg-id="" tvg-name="BA: MTV Igman" tvg-logo="" group-title="Ex-Yu",BA: MTV Igman
+http://alblive.org:80/live/miro/mirodrug/1031.ts
+#EXTINF:-1 tvg-id="Hayatovci" tvg-name="BA: Hayatovci" tvg-logo="" group-title="Ex-Yu",BA: Hayatovci
+http://alblive.org:80/live/miro/mirodrug/216.ts
+#EXTINF:-1 tvg-id="Hayat Plus" tvg-name="BA: Hayat Plus" tvg-logo="" group-title="Ex-Yu",BA: Hayat Plus
+http://alblive.org:80/live/miro/mirodrug/209.ts
+#EXTINF:-1 tvg-id="Hayat TV" tvg-name="BA: Hayat HD" tvg-logo="" group-title="Ex-Yu",BA: Hayat HD
+http://alblive.org:80/live/miro/mirodrug/167.ts
+#EXTINF:-1 tvg-id="Hayat Folk" tvg-name="BA: Hayat Folk" tvg-logo="" group-title="Ex-Yu",BA: Hayat Folk
+http://alblive.org:80/live/miro/mirodrug/215.ts
+#EXTINF:-1 tvg-id="Federalna TV" tvg-name="BA: Federalna TV" tvg-logo="" group-title="Ex-Yu",BA: Federalna TV
+http://alblive.org:80/live/miro/mirodrug/217.ts
+#EXTINF:-1 tvg-id="Face TV" tvg-name="BA: Face TV" tvg-logo="" group-title="Ex-Yu",BA: Face TV
+http://alblive.org:80/live/miro/mirodrug/213.ts
+#EXTINF:-1 tvg-id="BN" tvg-name="BA: BN Sat" tvg-logo="" group-title="Ex-Yu",BA: BN Sat
+http://alblive.org:80/live/miro/mirodrug/591.ts
+#EXTINF:-1 tvg-id="BHT 1" tvg-name="BA: BHT 1" tvg-logo="" group-title="Ex-Yu",BA: BHT 1
+http://alblive.org:80/live/miro/mirodrug/156.ts
+#EXTINF:-1 tvg-id="ATV" tvg-name="BA: Alternativna TV" tvg-logo="" group-title="Ex-Yu",BA: Alternativna TV
+http://alblive.org:80/live/miro/mirodrug/793.ts
+#EXTINF:-1 tvg-id="Alfa TV" tvg-name="SR: Pink SciFi & Fantasy" tvg-logo="" group-title="Ex-Yu",SR: Pink SciFi & Fantasy
+http://alblive.org:80/live/miro/mirodrug/1030.ts
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="BA: Al Jazeera Balkans" tvg-logo="" group-title="Ex-Yu",BA: Al Jazeera Balkans
+http://alblive.org:80/live/miro/mirodrug/210.ts
+#EXTINF:-1 tvg-id="" tvg-name="BA: A1 Balkan" tvg-logo="" group-title="Ex-Yu",BA: A1 Balkan
+http://alblive.org:80/live/miro/mirodrug/598.ts
+#EXTINF:-1 tvg-id="" tvg-name="ME: Sandzak TV" tvg-logo="" group-title="Ex-Yu",ME: Sandzak TV
+http://alblive.org:80/live/miro/mirodrug/1306.ts
+#EXTINF:-1 tvg-id="RTCG Sat" tvg-name="ME: Atlas TV" tvg-logo="" group-title="Ex-Yu",ME: Atlas TV
+http://alblive.org:80/live/miro/mirodrug/1305.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ SCANDINAVIA ] =-=-=-" tvg-logo="" group-title="Scandinavia",-=-=-= [ SCANDINAVIA ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/940.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4" tvg-logo="http://alblive.org/logo/bg/sweden/tv4_fakta_xl.png" group-title="Scandinavia",SE: TV4
+http://alblive.org:80/live/miro/mirodrug/943.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: SVT 2 HD" tvg-logo="http://alblive.org/logo/bg/sweden/svt_24.png" group-title="Scandinavia",SE: SVT 2 HD
+http://alblive.org:80/live/miro/mirodrug/951.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: SVT 1 HD" tvg-logo="http://alblive.org/logo/bg/sweden/svt_1.png" group-title="Scandinavia",SE: SVT 1 HD
+http://alblive.org:80/live/miro/mirodrug/953.ts
+#EXTINF:-1 tvg-id="" tvg-name="DK: Kanal 5" tvg-logo="http://alblive.org/logo/bg/sweden/kanal_5_se.png" group-title="Scandinavia",DK: Kanal 5
+http://alblive.org:80/live/miro/mirodrug/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 3" tvg-logo="" group-title="Scandinavia",SE: TV 3
+http://alblive.org:80/live/miro/mirodrug/952.ts
+#EXTINF:-1 tvg-id="" tvg-name="DK: Investigation Discovery" tvg-logo="" group-title="Scandinavia",DK: Investigation Discovery
+http://alblive.org:80/live/miro/mirodrug/948.ts
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viasat Film Hits" tvg-logo="http://alblive.org/logo/bg/sweden/tv4_komedi.png" group-title="Scandinavia",DK: Viasat Film Hits
+http://alblive.org:80/live/miro/mirodrug/942.ts
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viasat Series" tvg-logo="http://alblive.org/logo/bg/sweden/tv4_guld.png" group-title="Scandinavia",DK: Viasat Series
+http://alblive.org:80/live/miro/mirodrug/949.ts
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viasat Film Comedy" tvg-logo="http://alblive.org/logo/bg/sweden/tv_10_se.png" group-title="Scandinavia",DK: Viasat Film Comedy
+http://alblive.org:80/live/miro/mirodrug/945.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Sport" tvg-logo="" group-title="Sport",SE: C More Sport
+http://alblive.org:80/live/miro/mirodrug/947.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 4" tvg-logo="" group-title="Scandinavia",SE: TV 4
+http://alblive.org:80/live/miro/mirodrug/950.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Hits HD" tvg-logo="http://alblive.org/logo/bg/sweden/tv_12_se.png" group-title="Scandinavia",SE: C More Hits HD
+http://alblive.org:80/live/miro/mirodrug/944.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ B U L G A R I A ] =-=-=-" tvg-logo="" group-title="",-=-=-= [ B U L G A R I A ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/938.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Planeta" tvg-logo="http://alblive.org/logo/bg/planeta_tv.png" group-title="Bulgaria",BG: Planeta
+http://alblive.org:80/live/miro/mirodrug/970.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Nova" tvg-logo="http://alblive.org/logo/bg/nova_tv_bg.png" group-title="Bulgaria",BG: Nova
+http://alblive.org:80/live/miro/mirodrug/968.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Nova Sport" tvg-logo="" group-title="Sport",BG: Nova Sport
+http://alblive.org:80/live/miro/mirodrug/967.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Kino Nova" tvg-logo="" group-title="Bulgaria",BG: Kino Nova
+http://alblive.org:80/live/miro/mirodrug/966.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: FEN TV" tvg-logo="http://alblive.org/logo/bg/fen_tv_bg.png" group-title="Bulgaria",BG: FEN TV
+http://alblive.org:80/live/miro/mirodrug/969.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Film +" tvg-logo="http://alblive.org/logo/bg/btv_bg_cinema.png" group-title="Bulgaria",BG: Film +
+http://alblive.org:80/live/miro/mirodrug/965.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: bTV Lady" tvg-logo="http://alblive.org/logo/bg/btv_bg_lady.png" group-title="Bulgaria",BG: bTV Lady
+http://alblive.org:80/live/miro/mirodrug/962.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: bTV Comedy" tvg-logo="http://alblive.org/logo/bg/btv_bg_comedy.png" group-title="Bulgaria",BG: bTV Comedy
+http://alblive.org:80/live/miro/mirodrug/961.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: bTV Cinema" tvg-logo="http://alblive.org/logo/bg/btv_bg_cinema.png" group-title="Bulgaria",BG: bTV Cinema
+http://alblive.org:80/live/miro/mirodrug/960.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: bTV Action" tvg-logo="http://alblive.org/logo/bg/btv_bg_action.png" group-title="Bulgaria",BG: bTV Action
+http://alblive.org:80/live/miro/mirodrug/959.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: BNT 2" tvg-logo="http://alblive.org/logo/bg/bnt2_bg.png" group-title="Bulgaria",BG: BNT 2
+http://alblive.org:80/live/miro/mirodrug/964.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: BNT 1" tvg-logo="http://alblive.org/logo/bg/bnt1_bg.png" group-title="Bulgaria",BG: BNT 1
+http://alblive.org:80/live/miro/mirodrug/963.ts
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="BG: Balkanika" tvg-logo="http://alblive.org/logo/bg/balkanika_music_tv.png" group-title="Bulgaria",BG: Balkanika
+http://alblive.org:80/live/miro/mirodrug/830.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Alfa TV" tvg-logo="http://alblive.org/logo/bg/alfa_tv_bg.png" group-title="Bulgaria",BG: Alfa TV
+http://alblive.org:80/live/miro/mirodrug/958.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ SKY UK ] =-=-=-" tvg-logo="" group-title="SKY UK",-=-=-= [ SKY UK ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/981.ts
+#EXTINF:-1 tvg-id="Sony Movie Channel UK" tvg-name="UK: Sony Movies" tvg-logo="" group-title="SKY UK",UK: Sony Movies
+http://alblive.org:80/live/miro/mirodrug/993.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Two" tvg-logo="" group-title="SKY UK",UK: Sky Two
+http://alblive.org:80/live/miro/mirodrug/984.ts
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="UK: Sky Premiere" tvg-logo="" group-title="SKY UK",UK: Sky Premiere
+http://alblive.org:80/live/miro/mirodrug/976.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic" tvg-logo="" group-title="SKY UK",UK: Sky Atlantic
+http://alblive.org:80/live/miro/mirodrug/975.ts
+#EXTINF:-1 tvg-id="Sky Movies Drama & Romance UK" tvg-name="UK: Sky Drama / Romance" tvg-logo="" group-title="SKY UK",UK: Sky Drama / Romance
+http://alblive.org:80/live/miro/mirodrug/983.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One" tvg-logo="" group-title="SKY UK",UK: Sky One
+http://alblive.org:80/live/miro/mirodrug/985.ts
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="UK: Sky Comedy" tvg-logo="" group-title="SKY UK",UK: Sky Comedy
+http://alblive.org:80/live/miro/mirodrug/974.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Thriller" tvg-logo="" group-title="SKY UK",UK: Sky Thriller
+http://alblive.org:80/live/miro/mirodrug/971.ts
+#EXTINF:-1 tvg-id="Sky Movies Action & Adventure UK" tvg-name="UK: Sky Action & Advanture" tvg-logo="" group-title="SKY UK",UK: Sky Action & Advanture
+http://alblive.org:80/live/miro/mirodrug/973.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="UK: National Geographic Wild" tvg-logo="" group-title="SKY UK",UK: National Geographic Wild
+http://alblive.org:80/live/miro/mirodrug/990.ts
+#EXTINF:-1 tvg-id="National Geographic Channel UK" tvg-name="UK: National Geographic Channel" tvg-logo="" group-title="SKY UK",UK: National Geographic Channel
+http://alblive.org:80/live/miro/mirodrug/978.ts
+#EXTINF:-1 tvg-id="Movies4Men UK" tvg-name="UK: Movies4Men" tvg-logo="" group-title="SKY UK",UK: Movies4Men
+http://alblive.org:80/live/miro/mirodrug/994.ts
+#EXTINF:-1 tvg-id="History Channel UK" tvg-name="UK: History Channel" tvg-logo="" group-title="SKY UK",UK: History Channel
+http://alblive.org:80/live/miro/mirodrug/986.ts
+#EXTINF:-1 tvg-id="FOX News UK" tvg-name="UK: FOX News" tvg-logo="" group-title="SKY UK",UK: FOX News
+http://alblive.org:80/live/miro/mirodrug/972.ts
+#EXTINF:-1 tvg-id="Disney XD UK" tvg-name="UK: Nick JR" tvg-logo="" group-title="SKY UK",UK: Nick JR
+http://alblive.org:80/live/miro/mirodrug/998.ts
+#EXTINF:-1 tvg-id="Disney Jr. UK" tvg-name="UK: Disney Junior" tvg-logo="" group-title="SKY UK",UK: Disney Junior
+http://alblive.org:80/live/miro/mirodrug/999.ts
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="UK: Disney Channel" tvg-logo="" group-title="SKY UK",UK: Disney Channel
+http://alblive.org:80/live/miro/mirodrug/1000.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="UK: Discovery Science" tvg-logo="" group-title="SKY UK",UK: Discovery Science
+http://alblive.org:80/live/miro/mirodrug/991.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="UK: Discovery History" tvg-logo="" group-title="SKY UK",UK: Discovery History
+http://alblive.org:80/live/miro/mirodrug/992.ts
+#EXTINF:-1 tvg-id="Discovery Channel UK" tvg-name="UK: Discovery Channel" tvg-logo="" group-title="SKY UK",UK: Discovery Channel
+http://alblive.org:80/live/miro/mirodrug/977.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="UK: Animal Planet" tvg-logo="" group-title="SKY UK",UK: Animal Planet
+http://alblive.org:80/live/miro/mirodrug/987.ts
+#EXTINF:-1 tvg-id="5USA UK" tvg-name="UK: Channel 5" tvg-logo="" group-title="SKY UK",UK: Channel 5
+http://alblive.org:80/live/miro/mirodrug/997.ts
+#EXTINF:-1 tvg-id="VH1 EU" tvg-name="IE: VH1" tvg-logo="" group-title="MTV Networks",IE: VH1
+http://alblive.org:80/live/miro/mirodrug/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: D Smar Sport 2" tvg-logo="http://alblive.org/logo/turkey/smart_spor_2.png" group-title="Sport",TR: D Smar Sport 2
+http://alblive.org:80/live/miro/mirodrug/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC News" tvg-logo="" group-title="USA",US: ABC News
+http://alblive.org:80/live/miro/mirodrug/820.ts
+#EXTINF:-1 tvg-id="" tvg-name="-=-=-= [ S P O R T ] =-=-=-" tvg-logo="" group-title="",-=-=-= [ S P O R T ] =-=-=-
+http://alblive.org:80/live/miro/mirodrug/939.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="" group-title="Sport",AL: RTSH Sport
+http://alblive.org:80/live/miro/mirodrug/913.ts
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring Sport News HD" tvg-logo="http://alblive.org/logo/albania/tring_sport_news.png" group-title="Sport",AL: Tring Sport News HD
+http://alblive.org:80/live/miro/mirodrug/188.ts
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="http://alblive.org/logo/albania/tring_sport_al.png" group-title="Sport",AL: Tring Sport 1 HD
+http://alblive.org:80/live/miro/mirodrug/191.ts
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 HD" tvg-logo="http://alblive.org/logo/albania/tring_sport_al.png" group-title="Sport",AL: Tring Sport 2 HD
+http://alblive.org:80/live/miro/mirodrug/223.ts
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="http://alblive.org/logo/albania/tring_sport_al.png" group-title="Sport",AL: Tring Sport 3 HD
+http://alblive.org:80/live/miro/mirodrug/224.ts
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 HD" tvg-logo="http://alblive.org/logo/albania/tring_sport_al.png" group-title="Sport",AL: Tring Sport 4 HD
+http://alblive.org:80/live/miro/mirodrug/538.ts
+#EXTINF:-1 tvg-id="beIN Sport 1 (Fr)" tvg-name="FR: beIN Sports HD 1" tvg-logo="" group-title="Sport",FR: beIN Sports HD 1
+http://alblive.org:80/live/miro/mirodrug/129.ts
+#EXTINF:-1 tvg-id="beIN Sport 2 (Fr)" tvg-name="FR: beIN Sports HD 2" tvg-logo="" group-title="Sport",FR: beIN Sports HD 2
+http://alblive.org:80/live/miro/mirodrug/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 1" tvg-logo="" group-title="Sport",BG: Diema Sport 1
+http://alblive.org:80/live/miro/mirodrug/929.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 2" tvg-logo="" group-title="Sport",BG: Diema Sport 2
+http://alblive.org:80/live/miro/mirodrug/930.ts
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="DE: Sky Sport News" tvg-logo="http://alblive.org/logo/germany/sky_de_sport_news_hd.png" group-title="Sport",DE: Sky Sport News
+http://alblive.org:80/live/miro/mirodrug/566.ts
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="Sport",DE: Sky Sport 1 HD
+http://alblive.org:80/live/miro/mirodrug/1322.ts
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="DE: Sky Sport 1" tvg-logo="http://alblive.org/logo/bg/sport/sky_de_sport.png" group-title="Sport",DE: Sky Sport 1
+http://alblive.org:80/live/miro/mirodrug/47.ts
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://alblive.org/logo/bg/sport/sky_de_sport.png" group-title="Sport",DE: Sky Sport 2 HD
+http://alblive.org:80/live/miro/mirodrug/48.ts
+#EXTINF:-1 tvg-id="Sky FuÃŸball Bundesliga DE" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="http://alblive.org/logo/germany/sky_de_bundesliga.png" group-title="Sport",DE: Sky Bundesliga 1 HD
+http://alblive.org:80/live/miro/mirodrug/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 HD" tvg-logo="http://alblive.org/logo/germany/sky_de_bundesliga.png" group-title="Sport",DE: Sky Bundesliga 2 HD
+http://alblive.org:80/live/miro/mirodrug/924.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3" tvg-logo="http://alblive.org/logo/germany/sky_de_bundesliga.png" group-title="Sport",DE: Sky Bundesliga 3
+http://alblive.org:80/live/miro/mirodrug/925.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4" tvg-logo="http://alblive.org/logo/germany/sky_de_bundesliga.png" group-title="Sport",DE: Sky Bundesliga 4
+http://alblive.org:80/live/miro/mirodrug/926.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5" tvg-logo="http://alblive.org/logo/germany/sky_de_bundesliga.png" group-title="Sport",DE: Sky Bundesliga 5
+http://alblive.org:80/live/miro/mirodrug/927.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6" tvg-logo="http://alblive.org/logo/germany/sky_de_bundesliga.png" group-title="Sport",DE: Sky Bundesliga 6
+http://alblive.org:80/live/miro/mirodrug/928.ts
+#EXTINF:-1 tvg-id="Sport1+ DE" tvg-name="DE: Sport 1+ HD" tvg-logo="http://alblive.org/logo/germany/sport1_de_plus_hd.png" group-title="Sport",DE: Sport 1+ HD
+http://alblive.org:80/live/miro/mirodrug/922.ts
+#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="AT: Sky Sport Austria" tvg-logo="http://alblive.org/logo/germany/sky_de_sport.png" group-title="Sport",AT: Sky Sport Austria
+http://alblive.org:80/live/miro/mirodrug/829.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Futball" tvg-logo="" group-title="Scandinavia",SE: Viasat Futball
+http://alblive.org:80/live/miro/mirodrug/941.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 HR" tvg-name="HR: Arena Sport 1 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_1.png" group-title="Sport",HR: Arena Sport 1 HD
+http://alblive.org:80/live/miro/mirodrug/803.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 HR" tvg-name="HR: Arena Sport 2 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_2.png" group-title="Sport",HR: Arena Sport 2 HD
+http://alblive.org:80/live/miro/mirodrug/804.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 HR" tvg-name="HR: Arena Sport 3 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_3.png" group-title="Sport",HR: Arena Sport 3 HD
+http://alblive.org:80/live/miro/mirodrug/805.ts
+#EXTINF:-1 tvg-id="Arena Sport 4 HR" tvg-name="HR: Arena Sport 4 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_4.png" group-title="Sport",HR: Arena Sport 4 HD
+http://alblive.org:80/live/miro/mirodrug/806.ts
+#EXTINF:-1 tvg-id="Arena Sport 5 HR" tvg-name="HR: Arena Sport 5 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_5.png" group-title="Sport",HR: Arena Sport 5 HD
+http://alblive.org:80/live/miro/mirodrug/807.ts
+#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="SR: Arena Sport 1 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_1.png" group-title="Sport",SR: Arena Sport 1 HD
+http://alblive.org:80/live/miro/mirodrug/29.ts
+#EXTINF:-1 tvg-id="Arena Sport 2" tvg-name="SR: Arena Sport 2 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_2.png" group-title="Sport",SR: Arena Sport 2 HD
+http://alblive.org:80/live/miro/mirodrug/30.ts
+#EXTINF:-1 tvg-id="Arena Sport 3" tvg-name="SR: Arena Sport 3 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_3.png" group-title="Sport",SR: Arena Sport 3 HD
+http://alblive.org:80/live/miro/mirodrug/31.ts
+#EXTINF:-1 tvg-id="Arena Sport 4" tvg-name="SR: Arena Sport 4 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_4.png" group-title="Sport",SR: Arena Sport 4 HD
+http://alblive.org:80/live/miro/mirodrug/32.ts
+#EXTINF:-1 tvg-id="Arena Sport 5" tvg-name="SR: Arena Sport 5 HD" tvg-logo="http://alblive.org/logo/sport/arena_sport_rs_5.png" group-title="Sport",SR: Arena Sport 5 HD
+http://alblive.org:80/live/miro/mirodrug/33.ts
+#EXTINF:-1 tvg-id="Sportska TV" tvg-name="HR: Sportska TV" tvg-logo="" group-title="Sport",HR: Sportska TV
+http://alblive.org:80/live/miro/mirodrug/1028.ts
+#EXTINF:-1 tvg-id="Fight Channel" tvg-name="SR: Fight Channel" tvg-logo="" group-title="Sport",SR: Fight Channel
+http://alblive.org:80/live/miro/mirodrug/150.ts
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="SR: Eurosport 1" tvg-logo="" group-title="Sport",SR: Eurosport 1
+http://alblive.org:80/live/miro/mirodrug/89.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="SR: Eurosport 2" tvg-logo="" group-title="Sport",SR: Eurosport 2
+http://alblive.org:80/live/miro/mirodrug/90.ts
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-name="SR: Sport Klub 1" tvg-logo="http://alblive.org/logo/sport/sport_klub_rs_1.png" group-title="Sport",SR: Sport Klub 1
+http://alblive.org:80/live/miro/mirodrug/86.ts
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-name="SR: Sport Klub 2" tvg-logo="http://alblive.org/logo/sport/sport_klub_rs_1.png" group-title="Sport",SR: Sport Klub 2
+http://alblive.org:80/live/miro/mirodrug/87.ts
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="SR: Sport Klub 3" tvg-logo="http://alblive.org/logo/sport/sport_klub_rs_1.png" group-title="Sport",SR: Sport Klub 3
+http://alblive.org:80/live/miro/mirodrug/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor HD" tvg-logo="http://alblive.org/logo/turkey/a_spor_tr.png" group-title="Sport",TR: A Spor HD
+http://alblive.org:80/live/miro/mirodrug/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: STV Spor" tvg-logo="" group-title="Sport",TR: STV Spor
+http://alblive.org:80/live/miro/mirodrug/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV Spor HD" tvg-logo="http://alblive.org/logo/turkey/ntv_spor.png" group-title="Sport",TR: NTV Spor HD
+http://alblive.org:80/live/miro/mirodrug/576.ts
+#EXTINF:-1 tvg-id="Lig TV 1 (Tr)" tvg-name="TR: Bein Sport 1 SD" tvg-logo="http://alblive.org/logo/turkey/lig_tv_tr.png" group-title="Sport",TR: Bein Sport 1 SD
+http://alblive.org:80/live/miro/mirodrug/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: D Smart Spor 1" tvg-logo="http://alblive.org/logo/turkey/smart_spor.png" group-title="Sport",TR: D Smart Spor 1
+http://alblive.org:80/live/miro/mirodrug/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1 HD" tvg-logo="http://alblive.org/logo/turkey/tivibu_tr_spor.png" group-title="Sport",TR: Tivibu Spor 1 HD
+http://alblive.org:80/live/miro/mirodrug/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 Spor HD" tvg-logo="http://alblive.org/logo/turkey/trt_spor_tr.png" group-title="Sport",TR: TRT 3 Spor HD
+http://alblive.org:80/live/miro/mirodrug/569.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="UK: Eurosport 1" tvg-logo="" group-title="Sport",UK: Eurosport 1
+http://alblive.org:80/live/miro/mirodrug/995.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="Sport",UK: BT Sport 2
+http://alblive.org:80/live/miro/mirodrug/988.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="Sport",UK: BT Sport 1
+http://alblive.org:80/live/miro/mirodrug/137.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="UK: Sky Sports 1" tvg-logo="" group-title="Sport",UK: Sky Sports 1
+http://alblive.org:80/live/miro/mirodrug/980.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="UK: Sky Sports 2" tvg-logo="" group-title="Sport",UK: Sky Sports 2
+http://alblive.org:80/live/miro/mirodrug/979.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="UK: Sky Sports 3" tvg-logo="" group-title="Sport",UK: Sky Sports 3
+http://alblive.org:80/live/miro/mirodrug/1001.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="UK: Sky Sports 4" tvg-logo="" group-title="Sport",UK: Sky Sports 4
+http://alblive.org:80/live/miro/mirodrug/1002.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Setanta Sports" tvg-logo="" group-title="Sport",UK: Setanta Sports
+http://alblive.org:80/live/miro/mirodrug/996.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT ESPN" tvg-logo="" group-title="Sport",UK: BT ESPN
+http://alblive.org:80/live/miro/mirodrug/1003.ts
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat M (Backup)" tvg-logo="http://alblive.org/logo/albania/alsat_m.png" group-title="Makedonija",AL: Alsat M (Backup)
+http://alblive.org:80/live/miro/mirodrug/1327.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premium 1 HD" tvg-logo="" group-title="Albania",AL: Kino Premium 1 HD
+http://alblive.org:80/live/miro/mirodrug/2222.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premium 2 HD" tvg-logo="" group-title="Albania",AL: Kino Premium 2 HD
+http://alblive.org:80/live/miro/mirodrug/2223.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premium 3 HD" tvg-logo="" group-title="Albania",AL: Kino Premium 3 HD
+http://alblive.org:80/live/miro/mirodrug/2738.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premium 4 HD" tvg-logo="" group-title="Albania",AL: Kino Premium 4 HD
+http://alblive.org:80/live/miro/mirodrug/2739.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="" group-title="Albania",AL: RTK 3
+http://alblive.org:80/live/miro/mirodrug/2733.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="" group-title="Albania",AL: RTK 4
+http://alblive.org:80/live/miro/mirodrug/2734.ts
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="AL: RTSH 1 HD" tvg-logo="http://alblive.org/logo/turkey/tvsh-1728x800_c.png" group-title="Albania",AL: RTSH 1 HD
+http://alblive.org:80/live/miro/mirodrug/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="http://alblive.org/logo/albania/tema_tv_al.png" group-title="Albania",AL: RTSH 3
+http://alblive.org:80/live/miro/mirodrug/800.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film" tvg-logo="http://alblive.org/logo/turkey/rtsh-art.png" group-title="Albania",AL: RTSH Film
+http://alblive.org:80/live/miro/mirodrug/916.ts
+#EXTINF:-1 tvg-id="RTV 21 MK" tvg-name="AL: RTV 21 Macedonia HD" tvg-logo="http://alblive.org/logo/turkey/CYYUGaOW8AAl8N7.png" group-title="Albania",AL: RTV 21 Macedonia HD
+http://alblive.org:80/live/miro/mirodrug/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: AlsatM HD" tvg-logo="" group-title="Albania",ALB: AlsatM HD
+http://alblive.org:80/live/miro/mirodrug/2501.ts
+#EXTINF:-1 tvg-id="3Sat-DE" tvg-name="DE: 3 Sat" tvg-logo="" group-title="Sky Deutschland",DE: 3 Sat
+http://alblive.org:80/live/miro/mirodrug/2056.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Augsburg TV" tvg-logo="" group-title="Sky Deutschland",DE: Augsburg TV
+http://alblive.org:80/live/miro/mirodrug/2061.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Baby TV" tvg-logo="" group-title="Sky Deutschland",DE: Baby TV
+http://alblive.org:80/live/miro/mirodrug/2052.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bayern TV" tvg-logo="" group-title="Sky Deutschland",DE: Bayern TV
+http://alblive.org:80/live/miro/mirodrug/2064.ts
+#EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="DE: Disney Channel" tvg-logo="" group-title="Sky Deutschland",DE: Disney Channel
+http://alblive.org:80/live/miro/mirodrug/1692.ts
+#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="DE: Disney Cinemagic" tvg-logo="" group-title="Sky Deutschland",DE: Disney Cinemagic
+http://alblive.org:80/live/miro/mirodrug/2051.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="Sport",DE: Eurosport 1 HD
+http://alblive.org:80/live/miro/mirodrug/2074.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD XTRA" tvg-logo="" group-title="Sport",DE: Eurosport 2 HD XTRA
+http://alblive.org:80/live/miro/mirodrug/2311.ts
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="DE: Munchen TV" tvg-logo="" group-title="Sky Deutschland",DE: Munchen TV
+http://alblive.org:80/live/miro/mirodrug/2062.ts
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE: NDR" tvg-logo="" group-title="Sky Deutschland",DE: NDR
+http://alblive.org:80/live/miro/mirodrug/2063.ts
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE: Sat 1 Gold HD" tvg-logo="" group-title="Sky Deutschland",DE: Sat 1 Gold HD
+http://alblive.org:80/live/miro/mirodrug/2049.ts
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="" group-title="Sky Deutschland",DE: Spiegel Geschichte HD
+http://alblive.org:80/live/miro/mirodrug/2059.ts
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE: Tagesschau 24" tvg-logo="" group-title="Sky Deutschland",DE: Tagesschau 24
+http://alblive.org:80/live/miro/mirodrug/2065.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Comedy" tvg-logo="" group-title="Sky Deutschland",DE: TNT Comedy
+http://alblive.org:80/live/miro/mirodrug/1896.ts
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="DE: TNT Film" tvg-logo="" group-title="Sky Deutschland",DE: TNT Film
+http://alblive.org:80/live/miro/mirodrug/1895.ts
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="DE: Toggo Plus" tvg-logo="" group-title="Sky Deutschland",DE: Toggo Plus
+http://alblive.org:80/live/miro/mirodrug/2922.ts
+#EXTINF:-1 tvg-id="MTV DANCE" tvg-name="IE: MTV Dance" tvg-logo="" group-title="MTV Networks",IE: MTV Dance
+http://alblive.org:80/live/miro/mirodrug/2040.ts
+#EXTINF:-1 tvg-id="MTV HITS" tvg-name="IE: MTV Hits" tvg-logo="" group-title="MTV Networks",IE: MTV Hits
+http://alblive.org:80/live/miro/mirodrug/2041.ts
+#EXTINF:-1 tvg-id="VH1 CLAS" tvg-name="IE: VH1 Classic" tvg-logo="" group-title="MTV Networks",IE: VH1 Classic
+http://alblive.org:80/live/miro/mirodrug/2042.ts
+#EXTINF:-1 tvg-id="ALFA" tvg-name="MK: Alfa HD" tvg-logo="http://alblive.org/logo/makedonija/alfa_tv_mk.png" group-title="Makedonija",MK: Alfa HD
+http://alblive.org:80/live/miro/mirodrug/2228.ts
+#EXTINF:-1 tvg-id="ALSAT M" tvg-name="MK: Alsat M HD" tvg-logo="http://alblive.org/logo/albania/alsat_m.png" group-title="Makedonija",MK: Alsat M HD
+http://alblive.org:80/live/miro/mirodrug/2226.ts
+#EXTINF:-1 tvg-id="ERA" tvg-name="MK: Era TV" tvg-logo="" group-title="Makedonija",MK: Era TV
+http://alblive.org:80/live/miro/mirodrug/1338.ts
+#EXTINF:-1 tvg-id="TV SHUTEL" tvg-name="MK: Shutel TV" tvg-logo="" group-title="Makedonija",MK: Shutel TV
+http://alblive.org:80/live/miro/mirodrug/1695.ts
+#EXTINF:-1 tvg-id="SITEL" tvg-name="MK: Sitel HD" tvg-logo="http://alblive.org/logo/makedonija/sitel.png" group-title="Makedonija",MK: Sitel HD
+http://alblive.org:80/live/miro/mirodrug/2227.ts
+#EXTINF:-1 tvg-id="TELMA" tvg-name="MK: Telma HD" tvg-logo="" group-title="Makedonija",MK: Telma HD
+http://alblive.org:80/live/miro/mirodrug/2229.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: HBO" tvg-logo="" group-title="Nederland",NL: HBO
+http://alblive.org:80/live/miro/mirodrug/1392.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: HBO 2" tvg-logo="" group-title="Nederland",NL: HBO 2
+http://alblive.org:80/live/miro/mirodrug/1393.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 1" tvg-logo="" group-title="Nederland",NL: NPO 1
+http://alblive.org:80/live/miro/mirodrug/1366.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 2" tvg-logo="" group-title="Nederland",NL: NPO 2
+http://alblive.org:80/live/miro/mirodrug/1367.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 3" tvg-logo="" group-title="Nederland",NL: NPO 3
+http://alblive.org:80/live/miro/mirodrug/1368.ts
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="DE: RTL FHD" tvg-logo="http://alblive.org/logo/germany/rtl_de.png" group-title="Sky Deutschland",DE: RTL FHD
+http://alblive.org:80/live/miro/mirodrug/182.ts
